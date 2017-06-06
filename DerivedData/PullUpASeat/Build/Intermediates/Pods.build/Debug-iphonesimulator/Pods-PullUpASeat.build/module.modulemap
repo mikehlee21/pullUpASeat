@@ -1,0 +1,6 @@
+framework module Pods_PullUpASeat {
+  umbrella header "Pods-PullUpASeat-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,1119 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Alamofire-Swift.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Alamofire-umbrella.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Target Support Files/Alamofire/Alamofire-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Intermediates/Pods.build/Debug-iphonesimulator/Alamofire.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Products/Debug-iphonesimulator/Bolts/Bolts.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "BFCancellationToken.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Bolts/Bolts/Common/BFCancellationToken.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFCancellationTokenRegistration.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Bolts/Bolts/Common/BFCancellationTokenRegistration.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFCancellationTokenSource.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Bolts/Bolts/Common/BFCancellationTokenSource.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFExecutor.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Bolts/Bolts/Common/BFExecutor.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFTask+Exceptions.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Bolts/Bolts/Common/BFTask+Exceptions.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFTask.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Bolts/Bolts/Common/BFTask.h"
+        },
+        {
+          'type': 'file',
+          'name': "BFTaskCompletionSource.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Bolts/Bolts/Common/BFTaskCompletionSource.h"
+        },
+        {
+          'type': 'file',
+          'name': "Bolts-Swift.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Products/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/Bolts-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Bolts-umbrella.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Target Support Files/Bolts/Bolts-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Bolts.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Bolts/Bolts/Common/Bolts.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Products/Debug-iphonesimulator/Bolts/Bolts.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Intermediates/Pods.build/Debug-iphonesimulator/Bolts.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Products/Debug-iphonesimulator/Braintree/Braintree.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "BTAPIClient.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeCore/Public/BTAPIClient.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTAppSwitch.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeCore/Public/BTAppSwitch.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTCard.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeCard/Public/BTCard.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTCardCapabilities.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeUnionPay/Public/BTCardCapabilities.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTCardClient+UnionPay.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeUnionPay/Public/BTCardClient+UnionPay.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTCardClient.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeCard/Public/BTCardClient.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTCardNonce.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeCard/Public/BTCardNonce.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTCardRequest.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeCard/Public/BTCardRequest.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTClientMetadata.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeCore/Public/BTClientMetadata.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTClientToken.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeCore/Public/BTClientToken.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTConfiguration+PayPal.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreePayPal/Public/BTConfiguration+PayPal.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTConfiguration+UnionPay.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeUnionPay/Public/BTConfiguration+UnionPay.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTConfiguration.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeCore/Public/BTConfiguration.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTDropInViewController.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeUI/Public/BTDropInViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTErrors.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeCore/Public/BTErrors.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTHTTPErrors.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeCore/Public/BTHTTPErrors.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTJSON.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeCore/Public/BTJSON.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTLogger.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeCore/Public/BTLogger.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTPayPalAccountNonce.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreePayPal/Public/BTPayPalAccountNonce.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTPayPalDriver.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreePayPal/Public/BTPayPalDriver.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTPayPalRequest.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreePayPal/Public/BTPayPalRequest.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTPaymentButton.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeUI/Public/BTPaymentButton.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTPaymentMethodNonce.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeCore/Public/BTPaymentMethodNonce.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTPaymentMethodNonceParser.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeCore/Public/BTPaymentMethodNonceParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTPaymentRequest.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeUI/Public/BTPaymentRequest.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTPostalAddress.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeCore/Public/BTPostalAddress.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTTokenizationService.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeCore/Public/BTTokenizationService.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTUI.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeUI/Public/BTUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTUICTAControl.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeUI/Public/BTUICTAControl.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTUICardFormView.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeUI/Public/BTUICardFormView.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTUICardHint.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeUI/Public/BTUICardHint.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTUICoinbaseButton.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeUI/Public/BTUICoinbaseButton.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTUIPayPalButton.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeUI/Public/BTUIPayPalButton.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTUIPaymentMethodView.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeUI/Public/BTUIPaymentMethodView.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTUIPaymentOptionType.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeUI/Public/BTUIPaymentOptionType.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTUISummaryView.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeUI/Public/BTUISummaryView.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTUIThemedView.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeUI/Public/BTUIThemedView.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTUIVectorArtView.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeUI/Public/BTUIVectorArtView.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTUIVenmoButton.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeUI/Public/BTUIVenmoButton.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTViewControllerPresentingDelegate.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeCore/Public/BTViewControllerPresentingDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "Braintree-Swift.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Products/Debug-iphonesimulator/Braintree/Braintree.framework/Headers/Braintree-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Braintree-umbrella.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Target Support Files/Braintree/Braintree-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "BraintreeCard.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeCard/Public/BraintreeCard.h"
+        },
+        {
+          'type': 'file',
+          'name': "BraintreeCore.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeCore/Public/BraintreeCore.h"
+        },
+        {
+          'type': 'file',
+          'name': "BraintreePayPal.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreePayPal/Public/BraintreePayPal.h"
+        },
+        {
+          'type': 'file',
+          'name': "BraintreeUI.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeUI/Public/BraintreeUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "BraintreeUnionPay.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeUnionPay/Public/BraintreeUnionPay.h"
+        },
+        {
+          'type': 'file',
+          'name': "PPDataCollector.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreePayPal/PayPalDataCollector/Public/PPDataCollector.h"
+        },
+        {
+          'type': 'file',
+          'name': "PPOTCore.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Public/PPOTCore.h"
+        },
+        {
+          'type': 'file',
+          'name': "PPOTDevice.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreePayPal/PayPalUtils/Public/PPOTDevice.h"
+        },
+        {
+          'type': 'file',
+          'name': "PPOTEncryptionHelper.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreePayPal/PayPalUtils/Public/PPOTEncryptionHelper.h"
+        },
+        {
+          'type': 'file',
+          'name': "PPOTJSONHelper.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreePayPal/PayPalUtils/Public/PPOTJSONHelper.h"
+        },
+        {
+          'type': 'file',
+          'name': "PPOTMacros.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreePayPal/PayPalUtils/Public/PPOTMacros.h"
+        },
+        {
+          'type': 'file',
+          'name': "PPOTPinnedCertificates.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreePayPal/PayPalUtils/Public/PPOTPinnedCertificates.h"
+        },
+        {
+          'type': 'file',
+          'name': "PPOTRequest.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Public/PPOTRequest.h"
+        },
+        {
+          'type': 'file',
+          'name': "PPOTRequestFactory.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Public/PPOTRequestFactory.h"
+        },
+        {
+          'type': 'file',
+          'name': "PPOTResult.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Public/PPOTResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "PPOTSimpleKeychain.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreePayPal/PayPalUtils/Public/PPOTSimpleKeychain.h"
+        },
+        {
+          'type': 'file',
+          'name': "PPOTString.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreePayPal/PayPalUtils/Public/PPOTString.h"
+        },
+        {
+          'type': 'file',
+          'name': "PPOTTime.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreePayPal/PayPalUtils/Public/PPOTTime.h"
+        },
+        {
+          'type': 'file',
+          'name': "PPOTURLSession.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreePayPal/PayPalUtils/Public/PPOTURLSession.h"
+        },
+        {
+          'type': 'file',
+          'name': "PPOTVersion.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreePayPal/PayPalUtils/Public/PPOTVersion.h"
+        },
+        {
+          'type': 'file',
+          'name': "PPRCClientMetadataIDProvider.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreePayPal/PayPalDataCollector/Risk/PPRCClientMetadataIDProvider.h"
+        },
+        {
+          'type': 'file',
+          'name': "PayPalDataCollector.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreePayPal/PayPalDataCollector/Public/PayPalDataCollector.h"
+        },
+        {
+          'type': 'file',
+          'name': "PayPalOneTouch.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Public/PayPalOneTouch.h"
+        },
+        {
+          'type': 'file',
+          'name': "PayPalUtils.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreePayPal/PayPalUtils/Public/PayPalUtils.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIColor+BTUI.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Braintree/BraintreeUI/Public/UIColor+BTUI.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Products/Debug-iphonesimulator/Braintree/Braintree.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Intermediates/Pods.build/Debug-iphonesimulator/Braintree.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Products/Debug-iphonesimulator/BraintreeDropIn/BraintreeDropIn.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "BTCardFormViewController.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/BraintreeDropIn/BraintreeDropIn/Public/BTCardFormViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTDropInBaseViewController.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/BraintreeDropIn/BraintreeDropIn/Public/BTDropInBaseViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTDropInController.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/BraintreeDropIn/BraintreeDropIn/Public/BTDropInController.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTDropInRequest.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/BraintreeDropIn/BraintreeDropIn/Public/BTDropInRequest.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTDropInResult.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/BraintreeDropIn/BraintreeDropIn/Public/BTDropInResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTPaymentSelectionViewController.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/BraintreeDropIn/BraintreeDropIn/Public/BTPaymentSelectionViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTUIKAppearance.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/BraintreeDropIn/BraintreeUIKit/Public/BTUIKAppearance.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTUIKCardExpirationValidator.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/BraintreeDropIn/BraintreeUIKit/Public/BTUIKCardExpirationValidator.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTUIKCardExpiryFormat.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/BraintreeDropIn/BraintreeUIKit/Public/BTUIKCardExpiryFormat.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTUIKCardListLabel.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/BraintreeDropIn/BraintreeUIKit/Public/BTUIKCardListLabel.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTUIKCardNumberFormField.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/BraintreeDropIn/BraintreeUIKit/Public/BTUIKCardNumberFormField.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTUIKCardType.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/BraintreeDropIn/BraintreeUIKit/Public/BTUIKCardType.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTUIKExpiryFormField.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/BraintreeDropIn/BraintreeUIKit/Public/BTUIKExpiryFormField.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTUIKExpiryInputView.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/BraintreeDropIn/BraintreeUIKit/Public/BTUIKExpiryInputView.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTUIKFormField.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/BraintreeDropIn/BraintreeUIKit/Public/BTUIKFormField.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTUIKInputAccessoryToolbar.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/BraintreeDropIn/BraintreeUIKit/Public/BTUIKInputAccessoryToolbar.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTUIKLocalizedString.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/BraintreeDropIn/BraintreeUIKit/Public/BTUIKLocalizedString.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTUIKMobileCountryCodeFormField.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/BraintreeDropIn/BraintreeUIKit/Public/BTUIKMobileCountryCodeFormField.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTUIKMobileNumberFormField.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/BraintreeDropIn/BraintreeUIKit/Public/BTUIKMobileNumberFormField.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTUIKPaymentOptionCardView.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/BraintreeDropIn/BraintreeUIKit/Public/BTUIKPaymentOptionCardView.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTUIKPaymentOptionType.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/BraintreeDropIn/BraintreeUIKit/Public/BTUIKPaymentOptionType.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTUIKPostalCodeFormField.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/BraintreeDropIn/BraintreeUIKit/Public/BTUIKPostalCodeFormField.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTUIKSecurityCodeFormField.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/BraintreeDropIn/BraintreeUIKit/Public/BTUIKSecurityCodeFormField.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTUIKTextField.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/BraintreeDropIn/BraintreeUIKit/Public/BTUIKTextField.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTUIKUtil.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/BraintreeDropIn/BraintreeUIKit/Public/BTUIKUtil.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTUIKVectorArtView.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/BraintreeDropIn/BraintreeUIKit/Public/BTUIKVectorArtView.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTUIKViewUtil.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/BraintreeDropIn/BraintreeUIKit/Public/BTUIKViewUtil.h"
+        },
+        {
+          'type': 'file',
+          'name': "BTVaultManagementViewController.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/BraintreeDropIn/BraintreeDropIn/Public/BTVaultManagementViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "BraintreeDropIn-Swift.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Products/Debug-iphonesimulator/BraintreeDropIn/BraintreeDropIn.framework/Headers/BraintreeDropIn-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "BraintreeDropIn-umbrella.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Target Support Files/BraintreeDropIn/BraintreeDropIn-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "BraintreeDropIn.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/BraintreeDropIn/BraintreeDropIn/Public/BraintreeDropIn.h"
+        },
+        {
+          'type': 'file',
+          'name': "BraintreeUIKit.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/BraintreeDropIn/BraintreeUIKit/Public/BraintreeUIKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIColor+BTUIK.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/BraintreeDropIn/BraintreeUIKit/Public/UIColor+BTUIK.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Products/Debug-iphonesimulator/BraintreeDropIn/BraintreeDropIn.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Intermediates/Pods.build/Debug-iphonesimulator/BraintreeDropIn.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Products/Debug-iphonesimulator/GoogleToolboxForMac/GoogleToolboxForMac.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "GTMDefines.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/GoogleToolboxForMac/GTMDefines.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMNSData+zlib.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/GoogleToolboxForMac/Foundation/GTMNSData+zlib.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleToolboxForMac-Swift.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Products/Debug-iphonesimulator/GoogleToolboxForMac/GoogleToolboxForMac.framework/Headers/GoogleToolboxForMac-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleToolboxForMac-umbrella.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Products/Debug-iphonesimulator/GoogleToolboxForMac/GoogleToolboxForMac.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Intermediates/Pods.build/Debug-iphonesimulator/GoogleToolboxForMac.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "PFACL.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFACL.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFAnalytics.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFAnalytics.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFAnonymousUtils+Deprecated.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFAnonymousUtils+Deprecated.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFAnonymousUtils.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFAnonymousUtils.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFCloud+Deprecated.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFCloud+Deprecated.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFCloud+Synchronous.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFCloud+Synchronous.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFCloud.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFCloud.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFConfig+Synchronous.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFConfig+Synchronous.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFConfig.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFConfig.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFConstants.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFConstants.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFFile+Deprecated.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFFile+Deprecated.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFFile+Synchronous.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFFile+Synchronous.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFFile.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFFile.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFGeoPoint.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFGeoPoint.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFInstallation.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFInstallation.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFNetworkActivityIndicatorManager.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFNetworkActivityIndicatorManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFObject+Deprecated.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFObject+Deprecated.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFObject+Subclass.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFObject+Subclass.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFObject+Synchronous.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFObject+Synchronous.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFObject.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFObject.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFProduct.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFProduct.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFPurchase.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFPurchase.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFPush+Deprecated.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFPush+Deprecated.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFPush+Synchronous.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFPush+Synchronous.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFPush.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFPush.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFQuery+Deprecated.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFQuery+Deprecated.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFQuery+Synchronous.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFQuery+Synchronous.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFQuery.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFQuery.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFRelation.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFRelation.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFRole.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFRole.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFSession.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFSession.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFSubclassing.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFSubclassing.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFUser+Deprecated.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFUser+Deprecated.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFUser+Synchronous.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFUser+Synchronous.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFUser.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFUser.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFUserAuthenticationDelegate.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/PFUserAuthenticationDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "Parse-Swift.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers/Parse-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Parse-umbrella.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Target Support Files/Parse/Parse-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Parse.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/Parse.h"
+        },
+        {
+          'type': 'file',
+          'name': "ParseClientConfiguration.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Parse/Parse/ParseClientConfiguration.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Intermediates/Pods.build/Debug-iphonesimulator/Parse.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Products/Debug-iphonesimulator/ParseUI/ParseUI.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "PFCollectionViewCell.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/ParseUI/ParseUI/Classes/Cells/PFCollectionViewCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFImageView.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/ParseUI/ParseUI/Classes/Views/PFImageView.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFLogInView.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/ParseUI/ParseUI/Classes/LogInViewController/PFLogInView.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFLogInViewController.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/ParseUI/ParseUI/Classes/LogInViewController/PFLogInViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFLogInView_Private.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/ParseUI/ParseUI/Classes/LogInViewController/PFLogInView_Private.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFProductTableViewController.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/ParseUI/ParseUI/Classes/ProductTableViewController/PFProductTableViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFPurchaseTableViewCell.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/ParseUI/ParseUI/Classes/Cells/PFPurchaseTableViewCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFQueryCollectionViewController.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/ParseUI/ParseUI/Classes/QueryCollectionViewController/PFQueryCollectionViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFQueryTableViewController.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/ParseUI/ParseUI/Classes/QueryTableViewController/PFQueryTableViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFSignUpView.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/ParseUI/ParseUI/Classes/SignUpViewController/PFSignUpView.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFSignUpViewController.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/ParseUI/ParseUI/Classes/SignUpViewController/PFSignUpViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFTableViewCell.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/ParseUI/ParseUI/Classes/Cells/PFTableViewCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "PFTextField.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/ParseUI/ParseUI/Classes/Views/PFTextField.h"
+        },
+        {
+          'type': 'file',
+          'name': "ParseUI-Swift.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Products/Debug-iphonesimulator/ParseUI/ParseUI.framework/Headers/ParseUI-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "ParseUI-umbrella.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Target Support Files/ParseUI/ParseUI-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "ParseUI.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/ParseUI/ParseUI/Other/ParseUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "ParseUIConstants.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/ParseUI/ParseUI/Other/ParseUIConstants.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Products/Debug-iphonesimulator/ParseUI/ParseUI.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Intermediates/Pods.build/Debug-iphonesimulator/ParseUI.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Products/Debug-iphonesimulator/Pods_PullUpASeat.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-PullUpASeat-umbrella.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Target Support Files/Pods-PullUpASeat/Pods-PullUpASeat-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_PullUpASeat-Swift.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Products/Debug-iphonesimulator/Pods_PullUpASeat.framework/Headers/Pods_PullUpASeat-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Products/Debug-iphonesimulator/Pods_PullUpASeat.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-PullUpASeat.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NSData+ImageContentType.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageCache.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/SDWebImage/SDWebImage/SDImageCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImage-Swift.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImage-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImage-umbrella.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Target Support Files/SDWebImage/SDWebImage-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageCompat.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDecoder.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDownloader.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDownloaderOperation.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageManager.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/SDWebImage/SDWebImage/SDWebImageManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageOperation.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImagePrefetcher.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+WebCache.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/SDWebImage/SDWebImage/UIButton+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+GIF.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/SDWebImage/SDWebImage/UIImage+GIF.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+MultiFormat.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+HighlightedWebCache.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/SDWebImage/SDWebImage/UIImageView+HighlightedWebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+WebCache.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+WebCacheOperation.h",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/SDWebImage/SDWebImage/UIView+WebCacheOperation.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Intermediates/Pods.build/Debug-iphonesimulator/SDWebImage.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

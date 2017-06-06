@@ -1,0 +1,992 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "APP_NAME"
+- "categoriesArray"
+- "PATH_TO_PHP_FILE"
+- "MY_REPORT_EMAIL_ADDRESS"
+- "ADMOB_UNIT_ID"
+- "hudView"
+- "indicatorView"
+- "PARSE_APP_KEY"
+- "PARSE_CLIENT_KEY"
+- "USER_CLASS_NAME"
+- "USER_ID"
+- "USER_USERNAME"
+- "USER_FULLNAME"
+- "USER_PHONE"
+- "USER_EMAIL"
+- "USER_WEBSITE"
+- "USER_AVATAR"
+- "CLASSIF_CLASS_NAME"
+- "CLASSIF_ID"
+- "CLASSIF_USER"
+- "CLASSIF_TITLE"
+- "CLASSIF_CATEGORY"
+- "CLASSIF_ADDRESS"
+- "CLASSIF_ADDRESS_STRING"
+- "CLASSIF_PRICE"
+- "CLASSIF_DESCRIPTION"
+- "CLASSIF_DESCRIPTION_LOWERCASE"
+- "CLASSIF_IMAGE1"
+- "CLASSIF_IMAGE2"
+- "CLASSIF_IMAGE3"
+- "CLASSIF_CREATED_AT"
+- "CLASSIF_UPDATED_AT"
+- "CLASSIF_KEYWORDS"
+- "FAV_CLASS_NAME"
+- "FAV_USERNAME"
+- "FAV_USER_POINTER"
+- "FAV_AD_POINTER"
+- "CLASSIF_FIRST_NAME"
+- "CLASSIF_Full_NAME"
+- "CLASSIF_LAST_NAME"
+- "CLASSIF_EMAIL"
+- "CLASSIF_ADDRESS_1"
+- "CLASSIF_MOBILE"
+- "CLASSIF_DOB"
+- "CLASSIF_SSN"
+- "CLASSIF_BANK"
+- "CLASSIF_REGION"
+- "CLASSIF_POSTALCODE"
+- "CLASSIF_LOCALITY"
+- "CLASSIF_ACCOUNT_NUMBER"
+- "CLASSIF_ROUTING_NUMBER"
+provides-nominal:
+provides-member:
+- ["CSo16UIViewController", ""]
+- ["CSo16UIViewController", "showHUD"]
+- ["CSo16UIViewController", "hideHUD"]
+- ["CSo16UIViewController", "simpleAlert"]
+provides-dynamic-lookup:
+- "hideHUD"
+- "showHUD"
+- "simpleAlert"
+depends-top-level:
+- "CLASSIF_TITLE"
+- "indicatorView"
+- "CLASSIF_UPDATED_AT"
+- "PATH_TO_PHP_FILE"
+- "USER_EMAIL"
+- "CLASSIF_SSN"
+- "StringLiteralType"
+- "PARSE_CLIENT_KEY"
+- "USER_PHONE"
+- "CLASSIF_DESCRIPTION"
+- "CLASSIF_DESCRIPTION_LOWERCASE"
+- "CLASSIF_DOB"
+- "CLASSIF_ROUTING_NUMBER"
+- "CLASSIF_KEYWORDS"
+- "CLASSIF_USER"
+- "CLASSIF_ACCOUNT_NUMBER"
+- "APP_NAME"
+- "PARSE_APP_KEY"
+- "MY_REPORT_EMAIL_ADDRESS"
+- "UIActivityIndicatorView"
+- "CLASSIF_FIRST_NAME"
+- !private "CGPoint"
+- "CLASSIF_IMAGE1"
+- "USER_FULLNAME"
+- "CLASSIF_LAST_NAME"
+- !private "/"
+- "CLASSIF_PRICE"
+- "CLASSIF_Full_NAME"
+- "CLASSIF_ID"
+- "CLASSIF_BANK"
+- "FAV_CLASS_NAME"
+- "AssignmentPrecedence"
+- !private "UIActivityIndicatorViewStyle"
+- "hudView"
+- "UIViewController"
+- "CLASSIF_ADDRESS_STRING"
+- "CLASSIF_IMAGE2"
+- "CLASSIF_ADDRESS_1"
+- "USER_USERNAME"
+- "CLASSIF_CLASS_NAME"
+- "CLASSIF_POSTALCODE"
+- "CGRect"
+- "CLASSIF_IMAGE3"
+- "Array"
+- "FAV_USER_POINTER"
+- "UIView"
+- "USER_AVATAR"
+- "USER_ID"
+- "CLASSIF_ADDRESS"
+- "FAV_USERNAME"
+- "CLASSIF_REGION"
+- !private "UIColor"
+- !private "UIAlertView"
+- "CLASSIF_EMAIL"
+- "FAV_AD_POINTER"
+- "USER_CLASS_NAME"
+- "CLASSIF_MOBILE"
+- "categoriesArray"
+- "CLASSIF_LOCALITY"
+- "ADMOB_UNIT_ID"
+- "CLASSIF_CATEGORY"
+- "CLASSIF_CREATED_AT"
+- "USER_WEBSITE"
+- "String"
+depends-member:
+- !private ["Ps9AnyObject", "APP_NAME"]
+- !private ["Ps9AnyObject", "CGPoint"]
+- !private ["Ps9AnyObject", "UIActivityIndicatorViewStyle"]
+- !private ["Ps9AnyObject", "UIAlertView"]
+- !private ["Ps9AnyObject", "UIColor"]
+- !private ["Ps9AnyObject", "activityIndicatorViewStyle"]
+- !private ["Ps9AnyObject", "addSubview"]
+- !private ["Ps9AnyObject", "alpha"]
+- !private ["Ps9AnyObject", "backgroundColor"]
+- !private ["Ps9AnyObject", "bounds"]
+- !private ["Ps9AnyObject", "center"]
+- !private ["Ps9AnyObject", "cornerRadius"]
+- !private ["Ps9AnyObject", "darkGray"]
+- !private ["Ps9AnyObject", "frame"]
+- ["Ps9AnyObject", "hideHUD"]
+- !private ["Ps9AnyObject", "hudView"]
+- !private ["Ps9AnyObject", "indicatorView"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "layer"]
+- !private ["Ps9AnyObject", "removeFromSuperview"]
+- !private ["Ps9AnyObject", "show"]
+- ["Ps9AnyObject", "showHUD"]
+- ["Ps9AnyObject", "simpleAlert"]
+- !private ["Ps9AnyObject", "startAnimating"]
+- !private ["Ps9AnyObject", "view"]
+- ["Sa", "Element"]
+- ["Sa", "deinit"]
+- ["Ps23BidirectionalCollection", "Element"]
+- ["Ps22BidirectionalIndexable", "Element"]
+- !private ["CSo7CALayer", "cornerRadius"]
+- ["CSo7CALayer", "deinit"]
+- !private ["PSo15CALayerDelegate", "activityIndicatorViewStyle"]
+- !private ["PSo15CALayerDelegate", "addSubview"]
+- !private ["PSo15CALayerDelegate", "alpha"]
+- !private ["PSo15CALayerDelegate", "backgroundColor"]
+- !private ["PSo15CALayerDelegate", "bounds"]
+- !private ["PSo15CALayerDelegate", "center"]
+- !private ["PSo15CALayerDelegate", "frame"]
+- ["PSo15CALayerDelegate", "init"]
+- !private ["PSo15CALayerDelegate", "layer"]
+- !private ["PSo15CALayerDelegate", "removeFromSuperview"]
+- !private ["PSo15CALayerDelegate", "show"]
+- !private ["PSo15CALayerDelegate", "startAnimating"]
+- !private ["PSo13CAMediaTiming", "cornerRadius"]
+- ["V12CoreGraphics7CGFloat", "deinit"]
+- ["VSC7CGPoint", "deinit"]
+- !private ["VSC7CGPoint", "init"]
+- ["VSC6CGRect", "deinit"]
+- ["VSC6CGRect", "init"]
+- !private ["VSC6CGRect", "size"]
+- !private ["VSC6CGSize", "height"]
+- !private ["VSC6CGSize", "width"]
+- !private ["Ps7CVarArg", "APP_NAME"]
+- !private ["Ps7CVarArg", "CGPoint"]
+- ["Ps7CVarArg", "Element"]
+- !private ["Ps7CVarArg", "UIActivityIndicatorViewStyle"]
+- !private ["Ps7CVarArg", "UIAlertView"]
+- !private ["Ps7CVarArg", "UIColor"]
+- !private ["Ps7CVarArg", "activityIndicatorViewStyle"]
+- !private ["Ps7CVarArg", "addSubview"]
+- !private ["Ps7CVarArg", "alpha"]
+- !private ["Ps7CVarArg", "backgroundColor"]
+- !private ["Ps7CVarArg", "bounds"]
+- !private ["Ps7CVarArg", "center"]
+- !private ["Ps7CVarArg", "cornerRadius"]
+- !private ["Ps7CVarArg", "darkGray"]
+- !private ["Ps7CVarArg", "frame"]
+- ["Ps7CVarArg", "hideHUD"]
+- !private ["Ps7CVarArg", "hudView"]
+- !private ["Ps7CVarArg", "indicatorView"]
+- ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "layer"]
+- !private ["Ps7CVarArg", "removeFromSuperview"]
+- !private ["Ps7CVarArg", "show"]
+- ["Ps7CVarArg", "showHUD"]
+- ["Ps7CVarArg", "simpleAlert"]
+- !private ["Ps7CVarArg", "startAnimating"]
+- !private ["Ps7CVarArg", "view"]
+- ["Ps10Collection", "Element"]
+- ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "APP_NAME"]
+- !private ["Ps28CustomDebugStringConvertible", "CGPoint"]
+- ["Ps28CustomDebugStringConvertible", "Element"]
+- !private ["Ps28CustomDebugStringConvertible", "UIActivityIndicatorViewStyle"]
+- !private ["Ps28CustomDebugStringConvertible", "UIAlertView"]
+- !private ["Ps28CustomDebugStringConvertible", "UIColor"]
+- !private ["Ps28CustomDebugStringConvertible", "activityIndicatorViewStyle"]
+- !private ["Ps28CustomDebugStringConvertible", "addSubview"]
+- !private ["Ps28CustomDebugStringConvertible", "alpha"]
+- !private ["Ps28CustomDebugStringConvertible", "backgroundColor"]
+- !private ["Ps28CustomDebugStringConvertible", "bounds"]
+- !private ["Ps28CustomDebugStringConvertible", "center"]
+- !private ["Ps28CustomDebugStringConvertible", "cornerRadius"]
+- !private ["Ps28CustomDebugStringConvertible", "darkGray"]
+- !private ["Ps28CustomDebugStringConvertible", "frame"]
+- !private ["Ps28CustomDebugStringConvertible", "height"]
+- ["Ps28CustomDebugStringConvertible", "hideHUD"]
+- !private ["Ps28CustomDebugStringConvertible", "hudView"]
+- !private ["Ps28CustomDebugStringConvertible", "indicatorView"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "layer"]
+- !private ["Ps28CustomDebugStringConvertible", "removeFromSuperview"]
+- !private ["Ps28CustomDebugStringConvertible", "show"]
+- ["Ps28CustomDebugStringConvertible", "showHUD"]
+- ["Ps28CustomDebugStringConvertible", "simpleAlert"]
+- !private ["Ps28CustomDebugStringConvertible", "size"]
+- !private ["Ps28CustomDebugStringConvertible", "startAnimating"]
+- !private ["Ps28CustomDebugStringConvertible", "view"]
+- !private ["Ps28CustomDebugStringConvertible", "width"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "height"]
+- ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "size"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "width"]
+- ["Ps17CustomReflectable", "Element"]
+- !private ["Ps17CustomReflectable", "height"]
+- ["Ps17CustomReflectable", "init"]
+- !private ["Ps17CustomReflectable", "size"]
+- !private ["Ps17CustomReflectable", "width"]
+- !private ["Ps23CustomStringConvertible", "APP_NAME"]
+- !private ["Ps23CustomStringConvertible", "CGPoint"]
+- ["Ps23CustomStringConvertible", "Element"]
+- !private ["Ps23CustomStringConvertible", "UIActivityIndicatorViewStyle"]
+- !private ["Ps23CustomStringConvertible", "UIAlertView"]
+- !private ["Ps23CustomStringConvertible", "UIColor"]
+- !private ["Ps23CustomStringConvertible", "activityIndicatorViewStyle"]
+- !private ["Ps23CustomStringConvertible", "addSubview"]
+- !private ["Ps23CustomStringConvertible", "alpha"]
+- !private ["Ps23CustomStringConvertible", "backgroundColor"]
+- !private ["Ps23CustomStringConvertible", "bounds"]
+- !private ["Ps23CustomStringConvertible", "center"]
+- !private ["Ps23CustomStringConvertible", "cornerRadius"]
+- !private ["Ps23CustomStringConvertible", "darkGray"]
+- !private ["Ps23CustomStringConvertible", "frame"]
+- ["Ps23CustomStringConvertible", "hideHUD"]
+- !private ["Ps23CustomStringConvertible", "hudView"]
+- !private ["Ps23CustomStringConvertible", "indicatorView"]
+- ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "layer"]
+- !private ["Ps23CustomStringConvertible", "removeFromSuperview"]
+- !private ["Ps23CustomStringConvertible", "show"]
+- ["Ps23CustomStringConvertible", "showHUD"]
+- ["Ps23CustomStringConvertible", "simpleAlert"]
+- !private ["Ps23CustomStringConvertible", "startAnimating"]
+- !private ["Ps23CustomStringConvertible", "view"]
+- !private ["Sd", "deinit"]
+- !private ["Ps9Equatable", "APP_NAME"]
+- !private ["Ps9Equatable", "CGPoint"]
+- !private ["Ps9Equatable", "UIActivityIndicatorViewStyle"]
+- !private ["Ps9Equatable", "UIAlertView"]
+- !private ["Ps9Equatable", "UIColor"]
+- !private ["Ps9Equatable", "activityIndicatorViewStyle"]
+- !private ["Ps9Equatable", "addSubview"]
+- !private ["Ps9Equatable", "alpha"]
+- !private ["Ps9Equatable", "backgroundColor"]
+- !private ["Ps9Equatable", "bounds"]
+- !private ["Ps9Equatable", "center"]
+- !private ["Ps9Equatable", "cornerRadius"]
+- !private ["Ps9Equatable", "darkGray"]
+- !private ["Ps9Equatable", "frame"]
+- !private ["Ps9Equatable", "height"]
+- ["Ps9Equatable", "hideHUD"]
+- !private ["Ps9Equatable", "hudView"]
+- !private ["Ps9Equatable", "indicatorView"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "layer"]
+- !private ["Ps9Equatable", "removeFromSuperview"]
+- !private ["Ps9Equatable", "show"]
+- ["Ps9Equatable", "showHUD"]
+- ["Ps9Equatable", "simpleAlert"]
+- !private ["Ps9Equatable", "size"]
+- !private ["Ps9Equatable", "startAnimating"]
+- !private ["Ps9Equatable", "view"]
+- !private ["Ps9Equatable", "white"]
+- !private ["Ps9Equatable", "width"]
+- ["Ps25ExpressibleByArrayLiteral", "Element"]
+- ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- ["Ps32ExpressibleByStringInterpolation", "init"]
+- ["Ps26ExpressibleByStringLiteral", "init"]
+- ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps8Hashable", "APP_NAME"]
+- !private ["Ps8Hashable", "CGPoint"]
+- !private ["Ps8Hashable", "UIActivityIndicatorViewStyle"]
+- !private ["Ps8Hashable", "UIAlertView"]
+- !private ["Ps8Hashable", "UIColor"]
+- !private ["Ps8Hashable", "activityIndicatorViewStyle"]
+- !private ["Ps8Hashable", "addSubview"]
+- !private ["Ps8Hashable", "alpha"]
+- !private ["Ps8Hashable", "backgroundColor"]
+- !private ["Ps8Hashable", "bounds"]
+- !private ["Ps8Hashable", "center"]
+- !private ["Ps8Hashable", "cornerRadius"]
+- !private ["Ps8Hashable", "darkGray"]
+- !private ["Ps8Hashable", "frame"]
+- ["Ps8Hashable", "hideHUD"]
+- !private ["Ps8Hashable", "hudView"]
+- !private ["Ps8Hashable", "indicatorView"]
+- ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "layer"]
+- !private ["Ps8Hashable", "removeFromSuperview"]
+- !private ["Ps8Hashable", "show"]
+- ["Ps8Hashable", "showHUD"]
+- ["Ps8Hashable", "simpleAlert"]
+- !private ["Ps8Hashable", "startAnimating"]
+- !private ["Ps8Hashable", "view"]
+- !private ["Ps8Hashable", "white"]
+- ["Ps9Indexable", "Element"]
+- ["Ps13IndexableBase", "Element"]
+- ["Si", "deinit"]
+- ["Ps25LosslessStringConvertible", "init"]
+- ["Ps10MirrorPath", "init"]
+- ["Ps17MutableCollection", "Element"]
+- ["Ps16MutableIndexable", "Element"]
+- !private ["PSo8NSCoding", "APP_NAME"]
+- !private ["PSo8NSCoding", "CGPoint"]
+- !private ["PSo8NSCoding", "UIActivityIndicatorViewStyle"]
+- !private ["PSo8NSCoding", "UIAlertView"]
+- !private ["PSo8NSCoding", "UIColor"]
+- !private ["PSo8NSCoding", "activityIndicatorViewStyle"]
+- !private ["PSo8NSCoding", "addSubview"]
+- !private ["PSo8NSCoding", "alpha"]
+- !private ["PSo8NSCoding", "backgroundColor"]
+- !private ["PSo8NSCoding", "bounds"]
+- !private ["PSo8NSCoding", "center"]
+- !private ["PSo8NSCoding", "cornerRadius"]
+- !private ["PSo8NSCoding", "darkGray"]
+- !private ["PSo8NSCoding", "frame"]
+- !private ["PSo8NSCoding", "hudView"]
+- !private ["PSo8NSCoding", "indicatorView"]
+- ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "layer"]
+- !private ["PSo8NSCoding", "removeFromSuperview"]
+- !private ["PSo8NSCoding", "show"]
+- !private ["PSo8NSCoding", "startAnimating"]
+- !private ["PSo8NSCoding", "view"]
+- !private ["PSo9NSCopying", "darkGray"]
+- ["PSo9NSCopying", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "APP_NAME"]
+- !private ["PSo26NSExtensionRequestHandling", "CGPoint"]
+- !private ["PSo26NSExtensionRequestHandling", "UIActivityIndicatorViewStyle"]
+- !private ["PSo26NSExtensionRequestHandling", "UIAlertView"]
+- !private ["PSo26NSExtensionRequestHandling", "UIColor"]
+- !private ["PSo26NSExtensionRequestHandling", "hudView"]
+- !private ["PSo26NSExtensionRequestHandling", "indicatorView"]
+- !private ["PSo26NSExtensionRequestHandling", "view"]
+- ["PSo16NSMutableCopying", "init"]
+- !private ["CSo8NSObject", "APP_NAME"]
+- !private ["CSo8NSObject", "CGPoint"]
+- ["CSo8NSObject", "String"]
+- !private ["CSo8NSObject", "UIActivityIndicatorViewStyle"]
+- !private ["CSo8NSObject", "UIAlertView"]
+- !private ["CSo8NSObject", "UIColor"]
+- !private ["CSo8NSObject", "activityIndicatorViewStyle"]
+- !private ["CSo8NSObject", "addSubview"]
+- !private ["CSo8NSObject", "alpha"]
+- !private ["CSo8NSObject", "backgroundColor"]
+- !private ["CSo8NSObject", "bounds"]
+- !private ["CSo8NSObject", "center"]
+- !private ["CSo8NSObject", "cornerRadius"]
+- !private ["CSo8NSObject", "darkGray"]
+- !private ["CSo8NSObject", "frame"]
+- ["CSo8NSObject", "hideHUD"]
+- !private ["CSo8NSObject", "hudView"]
+- !private ["CSo8NSObject", "indicatorView"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "layer"]
+- !private ["CSo8NSObject", "removeFromSuperview"]
+- !private ["CSo8NSObject", "show"]
+- ["CSo8NSObject", "showHUD"]
+- ["CSo8NSObject", "simpleAlert"]
+- !private ["CSo8NSObject", "startAnimating"]
+- !private ["CSo8NSObject", "view"]
+- !private ["PSo16NSObjectProtocol", "APP_NAME"]
+- !private ["PSo16NSObjectProtocol", "CGPoint"]
+- !private ["PSo16NSObjectProtocol", "UIActivityIndicatorViewStyle"]
+- !private ["PSo16NSObjectProtocol", "UIAlertView"]
+- !private ["PSo16NSObjectProtocol", "UIColor"]
+- !private ["PSo16NSObjectProtocol", "activityIndicatorViewStyle"]
+- !private ["PSo16NSObjectProtocol", "addSubview"]
+- !private ["PSo16NSObjectProtocol", "alpha"]
+- !private ["PSo16NSObjectProtocol", "backgroundColor"]
+- !private ["PSo16NSObjectProtocol", "bounds"]
+- !private ["PSo16NSObjectProtocol", "center"]
+- !private ["PSo16NSObjectProtocol", "cornerRadius"]
+- !private ["PSo16NSObjectProtocol", "darkGray"]
+- !private ["PSo16NSObjectProtocol", "frame"]
+- ["PSo16NSObjectProtocol", "hideHUD"]
+- !private ["PSo16NSObjectProtocol", "hudView"]
+- !private ["PSo16NSObjectProtocol", "indicatorView"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "layer"]
+- !private ["PSo16NSObjectProtocol", "removeFromSuperview"]
+- !private ["PSo16NSObjectProtocol", "show"]
+- ["PSo16NSObjectProtocol", "showHUD"]
+- ["PSo16NSObjectProtocol", "simpleAlert"]
+- !private ["PSo16NSObjectProtocol", "startAnimating"]
+- !private ["PSo16NSObjectProtocol", "view"]
+- !private ["PSo14NSSecureCoding", "darkGray"]
+- ["PSo14NSSecureCoding", "init"]
+- ["CSo8NSString", "init"]
+- ["Sq", "deinit"]
+- ["Ps22RandomAccessCollection", "Element"]
+- ["Ps21RandomAccessIndexable", "Element"]
+- ["Ps26RangeReplaceableCollection", "Element"]
+- ["Ps25RangeReplaceableIndexable", "Element"]
+- !private ["Ps16RawRepresentable", "white"]
+- ["Ps8Sequence", "Element"]
+- ["SS", "deinit"]
+- ["SS", "init"]
+- ["Ps16TextOutputStream", "init"]
+- ["Ps20TextOutputStreamable", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "activityIndicatorViewStyle"]
+- !private ["PSo29UIAccessibilityIdentification", "addSubview"]
+- !private ["PSo29UIAccessibilityIdentification", "alpha"]
+- !private ["PSo29UIAccessibilityIdentification", "backgroundColor"]
+- !private ["PSo29UIAccessibilityIdentification", "bounds"]
+- !private ["PSo29UIAccessibilityIdentification", "center"]
+- !private ["PSo29UIAccessibilityIdentification", "frame"]
+- ["PSo29UIAccessibilityIdentification", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "layer"]
+- !private ["PSo29UIAccessibilityIdentification", "removeFromSuperview"]
+- !private ["PSo29UIAccessibilityIdentification", "show"]
+- !private ["PSo29UIAccessibilityIdentification", "startAnimating"]
+- !private ["CSo23UIActivityIndicatorView", "activityIndicatorViewStyle"]
+- !private ["CSo23UIActivityIndicatorView", "center"]
+- ["CSo23UIActivityIndicatorView", "deinit"]
+- ["CSo23UIActivityIndicatorView", "init"]
+- !private ["CSo23UIActivityIndicatorView", "startAnimating"]
+- ["OSC28UIActivityIndicatorViewStyle", "deinit"]
+- !private ["OSC28UIActivityIndicatorViewStyle", "white"]
+- ["CSo11UIAlertView", "deinit"]
+- !private ["CSo11UIAlertView", "init"]
+- !private ["CSo11UIAlertView", "show"]
+- !private ["PSo12UIAppearance", "activityIndicatorViewStyle"]
+- !private ["PSo12UIAppearance", "addSubview"]
+- !private ["PSo12UIAppearance", "alpha"]
+- !private ["PSo12UIAppearance", "backgroundColor"]
+- !private ["PSo12UIAppearance", "bounds"]
+- !private ["PSo12UIAppearance", "center"]
+- !private ["PSo12UIAppearance", "frame"]
+- ["PSo12UIAppearance", "init"]
+- !private ["PSo12UIAppearance", "layer"]
+- !private ["PSo12UIAppearance", "removeFromSuperview"]
+- !private ["PSo12UIAppearance", "show"]
+- !private ["PSo12UIAppearance", "startAnimating"]
+- !private ["PSo21UIAppearanceContainer", "APP_NAME"]
+- !private ["PSo21UIAppearanceContainer", "CGPoint"]
+- !private ["PSo21UIAppearanceContainer", "UIActivityIndicatorViewStyle"]
+- !private ["PSo21UIAppearanceContainer", "UIAlertView"]
+- !private ["PSo21UIAppearanceContainer", "UIColor"]
+- !private ["PSo21UIAppearanceContainer", "activityIndicatorViewStyle"]
+- !private ["PSo21UIAppearanceContainer", "addSubview"]
+- !private ["PSo21UIAppearanceContainer", "alpha"]
+- !private ["PSo21UIAppearanceContainer", "backgroundColor"]
+- !private ["PSo21UIAppearanceContainer", "bounds"]
+- !private ["PSo21UIAppearanceContainer", "center"]
+- !private ["PSo21UIAppearanceContainer", "frame"]
+- !private ["PSo21UIAppearanceContainer", "hudView"]
+- !private ["PSo21UIAppearanceContainer", "indicatorView"]
+- ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "layer"]
+- !private ["PSo21UIAppearanceContainer", "removeFromSuperview"]
+- !private ["PSo21UIAppearanceContainer", "show"]
+- !private ["PSo21UIAppearanceContainer", "startAnimating"]
+- !private ["PSo21UIAppearanceContainer", "view"]
+- !private ["CSo7UIColor", "darkGray"]
+- ["CSo7UIColor", "deinit"]
+- !private ["PSo18UIContentContainer", "APP_NAME"]
+- !private ["PSo18UIContentContainer", "CGPoint"]
+- !private ["PSo18UIContentContainer", "UIActivityIndicatorViewStyle"]
+- !private ["PSo18UIContentContainer", "UIAlertView"]
+- !private ["PSo18UIContentContainer", "UIColor"]
+- !private ["PSo18UIContentContainer", "hudView"]
+- !private ["PSo18UIContentContainer", "indicatorView"]
+- !private ["PSo18UIContentContainer", "view"]
+- !private ["PSo17UICoordinateSpace", "activityIndicatorViewStyle"]
+- !private ["PSo17UICoordinateSpace", "addSubview"]
+- !private ["PSo17UICoordinateSpace", "alpha"]
+- !private ["PSo17UICoordinateSpace", "backgroundColor"]
+- !private ["PSo17UICoordinateSpace", "bounds"]
+- !private ["PSo17UICoordinateSpace", "center"]
+- !private ["PSo17UICoordinateSpace", "frame"]
+- ["PSo17UICoordinateSpace", "init"]
+- !private ["PSo17UICoordinateSpace", "layer"]
+- !private ["PSo17UICoordinateSpace", "removeFromSuperview"]
+- !private ["PSo17UICoordinateSpace", "show"]
+- !private ["PSo17UICoordinateSpace", "startAnimating"]
+- !private ["PSo13UIDynamicItem", "activityIndicatorViewStyle"]
+- !private ["PSo13UIDynamicItem", "addSubview"]
+- !private ["PSo13UIDynamicItem", "alpha"]
+- !private ["PSo13UIDynamicItem", "backgroundColor"]
+- !private ["PSo13UIDynamicItem", "bounds"]
+- !private ["PSo13UIDynamicItem", "center"]
+- !private ["PSo13UIDynamicItem", "frame"]
+- ["PSo13UIDynamicItem", "init"]
+- !private ["PSo13UIDynamicItem", "layer"]
+- !private ["PSo13UIDynamicItem", "removeFromSuperview"]
+- !private ["PSo13UIDynamicItem", "show"]
+- !private ["PSo13UIDynamicItem", "startAnimating"]
+- !private ["PSo18UIFocusEnvironment", "APP_NAME"]
+- !private ["PSo18UIFocusEnvironment", "CGPoint"]
+- !private ["PSo18UIFocusEnvironment", "UIActivityIndicatorViewStyle"]
+- !private ["PSo18UIFocusEnvironment", "UIAlertView"]
+- !private ["PSo18UIFocusEnvironment", "UIColor"]
+- !private ["PSo18UIFocusEnvironment", "activityIndicatorViewStyle"]
+- !private ["PSo18UIFocusEnvironment", "addSubview"]
+- !private ["PSo18UIFocusEnvironment", "alpha"]
+- !private ["PSo18UIFocusEnvironment", "backgroundColor"]
+- !private ["PSo18UIFocusEnvironment", "bounds"]
+- !private ["PSo18UIFocusEnvironment", "center"]
+- !private ["PSo18UIFocusEnvironment", "frame"]
+- !private ["PSo18UIFocusEnvironment", "hudView"]
+- !private ["PSo18UIFocusEnvironment", "indicatorView"]
+- ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "layer"]
+- !private ["PSo18UIFocusEnvironment", "removeFromSuperview"]
+- !private ["PSo18UIFocusEnvironment", "show"]
+- !private ["PSo18UIFocusEnvironment", "startAnimating"]
+- !private ["PSo18UIFocusEnvironment", "view"]
+- !private ["PSo11UIFocusItem", "activityIndicatorViewStyle"]
+- !private ["PSo11UIFocusItem", "addSubview"]
+- !private ["PSo11UIFocusItem", "alpha"]
+- !private ["PSo11UIFocusItem", "backgroundColor"]
+- !private ["PSo11UIFocusItem", "bounds"]
+- !private ["PSo11UIFocusItem", "center"]
+- !private ["PSo11UIFocusItem", "frame"]
+- ["PSo11UIFocusItem", "init"]
+- !private ["PSo11UIFocusItem", "layer"]
+- !private ["PSo11UIFocusItem", "removeFromSuperview"]
+- !private ["PSo11UIFocusItem", "show"]
+- !private ["PSo11UIFocusItem", "startAnimating"]
+- !private ["CSo11UIResponder", "APP_NAME"]
+- !private ["CSo11UIResponder", "CGPoint"]
+- ["CSo11UIResponder", "String"]
+- !private ["CSo11UIResponder", "UIActivityIndicatorViewStyle"]
+- !private ["CSo11UIResponder", "UIAlertView"]
+- !private ["CSo11UIResponder", "UIColor"]
+- !private ["CSo11UIResponder", "activityIndicatorViewStyle"]
+- !private ["CSo11UIResponder", "addSubview"]
+- !private ["CSo11UIResponder", "alpha"]
+- !private ["CSo11UIResponder", "backgroundColor"]
+- !private ["CSo11UIResponder", "bounds"]
+- !private ["CSo11UIResponder", "center"]
+- !private ["CSo11UIResponder", "frame"]
+- ["CSo11UIResponder", "hideHUD"]
+- !private ["CSo11UIResponder", "hudView"]
+- !private ["CSo11UIResponder", "indicatorView"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "layer"]
+- !private ["CSo11UIResponder", "removeFromSuperview"]
+- !private ["CSo11UIResponder", "show"]
+- ["CSo11UIResponder", "showHUD"]
+- ["CSo11UIResponder", "simpleAlert"]
+- !private ["CSo11UIResponder", "startAnimating"]
+- !private ["CSo11UIResponder", "view"]
+- !private ["PSo30UIResponderStandardEditActions", "APP_NAME"]
+- !private ["PSo30UIResponderStandardEditActions", "CGPoint"]
+- !private ["PSo30UIResponderStandardEditActions", "UIActivityIndicatorViewStyle"]
+- !private ["PSo30UIResponderStandardEditActions", "UIAlertView"]
+- !private ["PSo30UIResponderStandardEditActions", "UIColor"]
+- !private ["PSo30UIResponderStandardEditActions", "activityIndicatorViewStyle"]
+- !private ["PSo30UIResponderStandardEditActions", "addSubview"]
+- !private ["PSo30UIResponderStandardEditActions", "alpha"]
+- !private ["PSo30UIResponderStandardEditActions", "backgroundColor"]
+- !private ["PSo30UIResponderStandardEditActions", "bounds"]
+- !private ["PSo30UIResponderStandardEditActions", "center"]
+- !private ["PSo30UIResponderStandardEditActions", "frame"]
+- ["PSo30UIResponderStandardEditActions", "hideHUD"]
+- !private ["PSo30UIResponderStandardEditActions", "hudView"]
+- !private ["PSo30UIResponderStandardEditActions", "indicatorView"]
+- ["PSo30UIResponderStandardEditActions", "init"]
+- !private ["PSo30UIResponderStandardEditActions", "layer"]
+- !private ["PSo30UIResponderStandardEditActions", "removeFromSuperview"]
+- !private ["PSo30UIResponderStandardEditActions", "show"]
+- ["PSo30UIResponderStandardEditActions", "showHUD"]
+- ["PSo30UIResponderStandardEditActions", "simpleAlert"]
+- !private ["PSo30UIResponderStandardEditActions", "startAnimating"]
+- !private ["PSo30UIResponderStandardEditActions", "view"]
+- !private ["PSo16UIStateRestoring", "APP_NAME"]
+- !private ["PSo16UIStateRestoring", "CGPoint"]
+- !private ["PSo16UIStateRestoring", "UIActivityIndicatorViewStyle"]
+- !private ["PSo16UIStateRestoring", "UIAlertView"]
+- !private ["PSo16UIStateRestoring", "UIColor"]
+- !private ["PSo16UIStateRestoring", "hudView"]
+- !private ["PSo16UIStateRestoring", "indicatorView"]
+- !private ["PSo16UIStateRestoring", "view"]
+- !private ["PSo18UITraitEnvironment", "APP_NAME"]
+- !private ["PSo18UITraitEnvironment", "CGPoint"]
+- !private ["PSo18UITraitEnvironment", "UIActivityIndicatorViewStyle"]
+- !private ["PSo18UITraitEnvironment", "UIAlertView"]
+- !private ["PSo18UITraitEnvironment", "UIColor"]
+- !private ["PSo18UITraitEnvironment", "activityIndicatorViewStyle"]
+- !private ["PSo18UITraitEnvironment", "addSubview"]
+- !private ["PSo18UITraitEnvironment", "alpha"]
+- !private ["PSo18UITraitEnvironment", "backgroundColor"]
+- !private ["PSo18UITraitEnvironment", "bounds"]
+- !private ["PSo18UITraitEnvironment", "center"]
+- !private ["PSo18UITraitEnvironment", "frame"]
+- !private ["PSo18UITraitEnvironment", "hudView"]
+- !private ["PSo18UITraitEnvironment", "indicatorView"]
+- ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "layer"]
+- !private ["PSo18UITraitEnvironment", "removeFromSuperview"]
+- !private ["PSo18UITraitEnvironment", "show"]
+- !private ["PSo18UITraitEnvironment", "startAnimating"]
+- !private ["PSo18UITraitEnvironment", "view"]
+- !private ["CSo6UIView", "activityIndicatorViewStyle"]
+- !private ["CSo6UIView", "addSubview"]
+- !private ["CSo6UIView", "alpha"]
+- !private ["CSo6UIView", "backgroundColor"]
+- !private ["CSo6UIView", "bounds"]
+- !private ["CSo6UIView", "center"]
+- ["CSo6UIView", "deinit"]
+- !private ["CSo6UIView", "frame"]
+- ["CSo6UIView", "init"]
+- !private ["CSo6UIView", "layer"]
+- !private ["CSo6UIView", "removeFromSuperview"]
+- !private ["CSo6UIView", "show"]
+- !private ["CSo6UIView", "startAnimating"]
+- !private ["CSo16UIViewController", "APP_NAME"]
+- !private ["CSo16UIViewController", "CGPoint"]
+- ["CSo16UIViewController", "String"]
+- !private ["CSo16UIViewController", "UIActivityIndicatorViewStyle"]
+- !private ["CSo16UIViewController", "UIAlertView"]
+- !private ["CSo16UIViewController", "UIColor"]
+- ["CSo16UIViewController", "deinit"]
+- ["CSo16UIViewController", "hideHUD"]
+- !private ["CSo16UIViewController", "hudView"]
+- !private ["CSo16UIViewController", "indicatorView"]
+- ["CSo16UIViewController", "showHUD"]
+- ["CSo16UIViewController", "simpleAlert"]
+- !private ["CSo16UIViewController", "view"]
+- ["Ps14_ArrayProtocol", "Element"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "activityIndicatorViewStyle"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "addSubview"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "alpha"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "backgroundColor"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "bounds"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "center"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "frame"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "init"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "layer"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "removeFromSuperview"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "show"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "startAnimating"]
+- ["Ps24_DestructorSafeContainer", "Element"]
+- ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps26_ExpressibleByColorLiteral", "darkGray"]
+- ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "APP_NAME"]
+- !private ["Ps9_Hashable", "CGPoint"]
+- !private ["Ps9_Hashable", "UIActivityIndicatorViewStyle"]
+- !private ["Ps9_Hashable", "UIAlertView"]
+- !private ["Ps9_Hashable", "UIColor"]
+- !private ["Ps9_Hashable", "activityIndicatorViewStyle"]
+- !private ["Ps9_Hashable", "addSubview"]
+- !private ["Ps9_Hashable", "alpha"]
+- !private ["Ps9_Hashable", "backgroundColor"]
+- !private ["Ps9_Hashable", "bounds"]
+- !private ["Ps9_Hashable", "center"]
+- !private ["Ps9_Hashable", "cornerRadius"]
+- !private ["Ps9_Hashable", "darkGray"]
+- !private ["Ps9_Hashable", "frame"]
+- ["Ps9_Hashable", "hideHUD"]
+- !private ["Ps9_Hashable", "hudView"]
+- !private ["Ps9_Hashable", "indicatorView"]
+- ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "layer"]
+- !private ["Ps9_Hashable", "removeFromSuperview"]
+- !private ["Ps9_Hashable", "show"]
+- ["Ps9_Hashable", "showHUD"]
+- ["Ps9_Hashable", "simpleAlert"]
+- !private ["Ps9_Hashable", "startAnimating"]
+- !private ["Ps9_Hashable", "view"]
+- !private ["Ps9_Hashable", "white"]
+- ["Ps21_ObjectiveCBridgeable", "Element"]
+- !private ["Ps21_ObjectiveCBridgeable", "height"]
+- ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "size"]
+- !private ["Ps21_ObjectiveCBridgeable", "width"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Sa"
+- "Ps23BidirectionalCollection"
+- "Ps22BidirectionalIndexable"
+- "CSo7CALayer"
+- "PSo15CALayerDelegate"
+- !private "PSo13CAMediaTiming"
+- "V12CoreGraphics7CGFloat"
+- "VSC7CGPoint"
+- "VSC6CGRect"
+- !private "VSC6CGSize"
+- "Ps7CVarArg"
+- "Ps10Collection"
+- "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- "Ps29CustomPlaygroundQuickLookable"
+- "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- !private "Sd"
+- "Ps9Equatable"
+- "Ps25ExpressibleByArrayLiteral"
+- "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- "Ps32ExpressibleByStringInterpolation"
+- "Ps26ExpressibleByStringLiteral"
+- "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- "Ps9Indexable"
+- "Ps13IndexableBase"
+- "Si"
+- "Ps25LosslessStringConvertible"
+- "Ps10MirrorPath"
+- "Ps17MutableCollection"
+- "Ps16MutableIndexable"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- !private "PSo26NSExtensionRequestHandling"
+- "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo14NSSecureCoding"
+- "CSo8NSString"
+- "Sq"
+- "Ps22RandomAccessCollection"
+- "Ps21RandomAccessIndexable"
+- "Ps26RangeReplaceableCollection"
+- "Ps25RangeReplaceableIndexable"
+- !private "Ps16RawRepresentable"
+- "Ps8Sequence"
+- "SS"
+- "Ps16TextOutputStream"
+- "Ps20TextOutputStreamable"
+- "PSo29UIAccessibilityIdentification"
+- "CSo23UIActivityIndicatorView"
+- "OSC28UIActivityIndicatorViewStyle"
+- "CSo11UIAlertView"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "CSo7UIColor"
+- !private "PSo18UIContentContainer"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "PSo11UIFocusItem"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- !private "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- "CSo16UIViewController"
+- "Ps14_ArrayProtocol"
+- "Ps37_DefaultCustomPlaygroundQuickLookable"
+- "Ps24_DestructorSafeContainer"
+- "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- "Ps34_ExpressibleByBuiltinStringLiteral"
+- "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps26_ExpressibleByColorLiteral"
+- "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/BFWebViewAppLinkResolver.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/BFURL.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/BFMeasurementEvent.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/BFAppLinkTarget.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/BFAppLinkReturnToRefererView.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/BFAppLinkReturnToRefererController.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/BFAppLinkResolving.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/BFAppLinkNavigation.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/BFAppLink.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/BFTaskCompletionSource.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/BFTask+Exceptions.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/BFTask.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/BFExecutor.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/BFCancellationTokenSource.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/BFCancellationTokenRegistration.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/BFCancellationToken.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/Bolts.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Modules/module.modulemap"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFPurchase.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFProduct.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFPush+Deprecated.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFPush+Synchronous.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFPush.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFNetworkActivityIndicatorManager.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFInstallation.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFUserAuthenticationDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFUser+Deprecated.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFUser+Synchronous.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFSession.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFRole.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFRelation.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFQuery+Deprecated.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFQuery+Synchronous.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFQuery.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFObject+Deprecated.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFObject+Synchronous.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFObject+Subclass.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFGeoPoint.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFFile+Synchronous.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFFile+Deprecated.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFFile.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFConfig+Synchronous.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFConfig.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFCloud+Synchronous.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFCloud+Deprecated.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFCloud.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFAnonymousUtils+Deprecated.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFSubclassing.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFObject.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFUser.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFAnonymousUtils.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFAnalytics.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFACL.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFConstants.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/ParseClientConfiguration.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/Parse.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/MapKit.swiftmodule"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMRewardBasedVideoAdNetworkConnectorProtocol.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMRewardBasedVideoAdNetworkAdapterProtocol.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMEnums.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMediationAdRequest.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMAdNetworkConnectorProtocol.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMAdNetworkAdapterProtocol.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADRewardBasedVideoAdDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADRewardBasedVideoAd.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdReward.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADSearchRequest.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADSearchBannerView.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADDynamicHeightSearchRequest.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMediatedNativeContentAd.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMediatedNativeAppInstallAd.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMediatedNativeAdNotificationSource.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventParameters.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMediatedNativeAdDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMediatedNativeAd.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventNativeAdDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventNativeAd.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventInterstitialDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventInterstitial.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventExtras.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventRequest.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventBannerDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventBanner.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAdViewAdOptions.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAdImageAdLoaderOptions.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeCustomTemplateAd.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeContentAd.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAppInstallAd.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAdImage+Mediation.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAdImage.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAdDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAd.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdChoicesView.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdLoaderAdTypes.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPRequest.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPInterstitial.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPCustomRenderedInterstitialDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPCustomRenderedAd.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAppEventDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPCustomRenderedBannerViewDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPBannerView.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADVideoOptions.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADVideoControllerDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADVideoController.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeExpressAdViewDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeExpressAdView.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMobileAds.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMediaView.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADInterstitialDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADInterstitial.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADInAppPurchase.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADExtras.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADDebugOptionsViewController.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdLoaderDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdLoader.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCorrelatorAdLoaderOptions.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCorrelator.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADRequestError.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADRequest.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADInAppPurchaseDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADBannerViewDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdSizeDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADBannerView.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdSize.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdNetworkExtras.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GoogleMobileAdsDefines.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GoogleMobileAds.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreAudio.swiftmodule"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Fabric/iOS/Fabric.framework/Headers/FABAttributes.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Fabric/iOS/Fabric.framework/Headers/Fabric.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Fabric/iOS/Fabric.framework/Modules/module.modulemap"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRSessionStore.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRSession.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRGuestSession.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRCoreOAuthSigning.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRConstants.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRAuthSession.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRAuthConfig.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRAPIErrorCode.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRDefines.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TwitterCore.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterCore/iOS/TwitterCore.framework/Modules/module.modulemap"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRVideoMetaData.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRUserTimelineDataSource.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRUser.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetUserMentionEntity.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetUrlEntity.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetViewDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetView.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetTableViewCell.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetHashtagEntity.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetDetailViewController.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetEntity.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetCashtagEntity.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweet.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTimelineViewController.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTimelineFilter.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTimelineDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTimelineCursor.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRSearchTimelineDataSource.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTROAuthSigning.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRNotificationConstants.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRMoPubNativeAdContainerView.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRMoPubAdConfiguration.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRMediaEntitySize.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRLogInButton.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRListTimelineDataSource.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRJSONConvertible.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRComposerViewController.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRComposerTheme.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRComposer.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTimelineType.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTimelineDataSource.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRCollectionTimelineDataSource.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRCardConfiguration.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRAPIClient.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/Twitter.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TwitterKit.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+interface-hash: "e8e2d8112c4f42b08a0a90b101599a89"

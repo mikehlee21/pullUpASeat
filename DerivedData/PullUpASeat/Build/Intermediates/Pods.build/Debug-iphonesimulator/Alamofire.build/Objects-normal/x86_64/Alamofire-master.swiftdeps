@@ -1,0 +1,21 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "b2c8a85918d77a5b972ace222172f484"
+build_time: [537537773, 869205000]
+inputs:
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Alamofire/Source/AFError.swift": [537417868, 0]
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Alamofire/Source/Alamofire.swift": [537417868, 0]
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [537417868, 0]
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Alamofire/Source/MultipartFormData.swift": [537417868, 0]
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [537417868, 0]
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Alamofire/Source/Notifications.swift": [537417868, 0]
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Alamofire/Source/ParameterEncoding.swift": [537417868, 0]
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Alamofire/Source/Request.swift": [537417868, 0]
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Alamofire/Source/Response.swift": [537417868, 0]
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Alamofire/Source/ResponseSerialization.swift": [537417868, 0]
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Alamofire/Source/Result.swift": [537417868, 0]
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Alamofire/Source/ServerTrustPolicy.swift": [537417868, 0]
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Alamofire/Source/SessionDelegate.swift": [537417868, 0]
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Alamofire/Source/SessionManager.swift": [537417868, 0]
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Alamofire/Source/TaskDelegate.swift": [537417868, 0]
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Alamofire/Source/Timeline.swift": [537417868, 0]
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Alamofire/Source/Validation.swift": [537417868, 0]

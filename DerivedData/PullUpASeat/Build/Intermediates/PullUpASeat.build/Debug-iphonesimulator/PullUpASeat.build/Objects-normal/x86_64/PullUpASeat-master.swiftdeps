@@ -1,0 +1,21 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "cf69769f8958e1b719b9fb4f4d074a6c"
+build_time: [539375106, 662986000]
+inputs:
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Configs.swift": !dirty [537417868, 0]
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/ShowSingleAd.swift": !dirty [537417868, 0]
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/BrowseAds.swift": !dirty [537417868, 0]
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/AppDelegate.swift": !dirty [537417868, 0]
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/SignUpSubmerchant/SignUpSubmerchant.swift": !dirty [537417868, 0]
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/SinUpOption/SinUpOption.swift": !dirty [537417868, 0]
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/ShowSingleAdVC.swift": !dirty [537417868, 0]
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Post.swift": !dirty [537417868, 0]
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Favorites.swift": !dirty [537417868, 0]
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/MyAdCell.swift": !dirty [537417868, 0]
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/AdCell.swift": !dirty [537417868, 0]
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Account.swift": !dirty [537417868, 0]
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Signup.swift": !dirty [537417868, 0]
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Home.swift": !dirty [537417868, 0]
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/MyAds.swift": !dirty [537417868, 0]
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/TermsOfUse.swift": !dirty [537417868, 0]
+  "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Login.swift": !dirty [537417868, 0]

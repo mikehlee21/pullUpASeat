@@ -1,0 +1,1596 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "searchedAdsArray"
+- "BrowseAds"
+provides-nominal:
+- "C11PullUpASeat9BrowseAds"
+provides-member:
+- ["C11PullUpASeat9BrowseAds", ""]
+provides-dynamic-lookup:
+- "callTAG"
+- "viewDidLoad"
+- "numberOfSections"
+- "didReceiveMemoryWarning"
+- "tableView"
+- "tableView"
+- "tableView"
+depends-top-level:
+- !private "AdCell"
+- "PFObject"
+- !private "CLASSIF_IMAGE1"
+- "UITableViewController"
+- "searchedAdsArray"
+- !private "StringLiteralType"
+- !private "UIImage"
+- !private "PFQuery"
+- !private "UIButton"
+- !private "Void"
+- !private "NSIndexPath"
+- !private "FAV_CLASS_NAME"
+- "UITableView"
+- !private "PFFile"
+- !private "FAV_AD_POINTER"
+- !private "FAV_USERNAME"
+- "BrowseAds"
+- !private "PFUser"
+- "UITableViewCell"
+- !private "CLASSIF_CLASS_NAME"
+- !private "CLASSIF_TITLE"
+- !private "CLASSIF_DESCRIPTION"
+- "IndexPath"
+- !private "AnyObject"
+- !private "!="
+- !private "FAV_USER_POINTER"
+- "Int"
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- !private "=="
+depends-member:
+- !private ["C11PullUpASeat6AdCell", "adDescrLabel"]
+- !private ["C11PullUpASeat6AdCell", "adImage"]
+- !private ["C11PullUpASeat6AdCell", "adTitleLabel"]
+- !private ["C11PullUpASeat6AdCell", "addToFavOutlet"]
+- ["C11PullUpASeat6AdCell", "deinit"]
+- !private ["Ps9AnyObject", "CLASSIF_CLASS_NAME"]
+- !private ["Ps9AnyObject", "CLASSIF_DESCRIPTION"]
+- !private ["Ps9AnyObject", "CLASSIF_IMAGE1"]
+- !private ["Ps9AnyObject", "CLASSIF_TITLE"]
+- !private ["Ps9AnyObject", "FAV_AD_POINTER"]
+- !private ["Ps9AnyObject", "FAV_CLASS_NAME"]
+- !private ["Ps9AnyObject", "FAV_USERNAME"]
+- !private ["Ps9AnyObject", "FAV_USER_POINTER"]
+- !private ["Ps9AnyObject", "PFObject"]
+- !private ["Ps9AnyObject", "PFQuery"]
+- !private ["Ps9AnyObject", "PFUser"]
+- !private ["Ps9AnyObject", "UIImage"]
+- !private ["Ps9AnyObject", "adDescrLabel"]
+- !private ["Ps9AnyObject", "adImage"]
+- !private ["Ps9AnyObject", "adTitleLabel"]
+- !private ["Ps9AnyObject", "addToFavOutlet"]
+- ["Ps9AnyObject", "callTAG"]
+- !private ["Ps9AnyObject", "current"]
+- !private ["Ps9AnyObject", "deinit"]
+- !private ["Ps9AnyObject", "dequeueReusableCell"]
+- ["Ps9AnyObject", "didReceiveMemoryWarning"]
+- !private ["Ps9AnyObject", "findObjectsInBackground"]
+- !private ["Ps9AnyObject", "getDataInBackground"]
+- !private ["Ps9AnyObject", "image"]
+- !private ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "numberOfSections"]
+- !private ["Ps9AnyObject", "row"]
+- !private ["Ps9AnyObject", "saveInBackground"]
+- !private ["Ps9AnyObject", "searchedAdsArray"]
+- !private ["Ps9AnyObject", "simpleAlert"]
+- !private ["Ps9AnyObject", "subscript"]
+- ["Ps9AnyObject", "tableView"]
+- !private ["Ps9AnyObject", "tag"]
+- !private ["Ps9AnyObject", "text"]
+- !private ["Ps9AnyObject", "title"]
+- !private ["Ps9AnyObject", "username"]
+- ["Ps9AnyObject", "viewDidLoad"]
+- !private ["Ps9AnyObject", "whereKey"]
+- ["Ps9AnyObject", ""]
+- !private ["Sa", "Index"]
+- !private ["Sa", "IndexDistance"]
+- !private ["Sa", "SubSequence"]
+- !private ["Sa", "_Element"]
+- !private ["Sa", "count"]
+- ["Sa", "deinit"]
+- ["Sa", "init"]
+- !private ["Sa", "subscript"]
+- !private ["Ps23BidirectionalCollection", "Index"]
+- !private ["Ps23BidirectionalCollection", "IndexDistance"]
+- !private ["Ps23BidirectionalCollection", "Indices"]
+- !private ["Ps23BidirectionalCollection", "Iterator"]
+- !private ["Ps23BidirectionalCollection", "SubSequence"]
+- !private ["Ps23BidirectionalCollection", "_Element"]
+- !private ["Ps23BidirectionalCollection", "count"]
+- ["Ps23BidirectionalCollection", "init"]
+- !private ["Ps23BidirectionalCollection", "row"]
+- !private ["Ps23BidirectionalCollection", "subscript"]
+- !private ["Ps22BidirectionalIndexable", "Index"]
+- !private ["Ps22BidirectionalIndexable", "IndexDistance"]
+- !private ["Ps22BidirectionalIndexable", "Indices"]
+- !private ["Ps22BidirectionalIndexable", "Iterator"]
+- !private ["Ps22BidirectionalIndexable", "SubSequence"]
+- !private ["Ps22BidirectionalIndexable", "_Element"]
+- !private ["Ps22BidirectionalIndexable", "count"]
+- ["Ps22BidirectionalIndexable", "init"]
+- !private ["Ps22BidirectionalIndexable", "row"]
+- !private ["Ps22BidirectionalIndexable", "subscript"]
+- !private ["Vs18BidirectionalSlice", "Index"]
+- !private ["Vs18BidirectionalSlice", "IndexDistance"]
+- !private ["Vs18BidirectionalSlice", "Indices"]
+- !private ["Vs18BidirectionalSlice", "Iterator"]
+- !private ["Vs18BidirectionalSlice", "SubSequence"]
+- !private ["Vs18BidirectionalSlice", "_Element"]
+- !private ["Ps17BitwiseOperations", "IntegerLiteralType"]
+- !private ["Ps17BitwiseOperations", "Stride"]
+- !private ["Ps17BitwiseOperations", "_DisabledRangeIndex"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["Sb", "deinit"]
+- !private ["C11PullUpASeat9BrowseAds", "AdCell"]
+- !private ["C11PullUpASeat9BrowseAds", "AnyObject"]
+- !private ["C11PullUpASeat9BrowseAds", "CLASSIF_CLASS_NAME"]
+- !private ["C11PullUpASeat9BrowseAds", "CLASSIF_DESCRIPTION"]
+- !private ["C11PullUpASeat9BrowseAds", "CLASSIF_IMAGE1"]
+- !private ["C11PullUpASeat9BrowseAds", "CLASSIF_TITLE"]
+- !private ["C11PullUpASeat9BrowseAds", "FAV_AD_POINTER"]
+- !private ["C11PullUpASeat9BrowseAds", "FAV_CLASS_NAME"]
+- !private ["C11PullUpASeat9BrowseAds", "FAV_USERNAME"]
+- !private ["C11PullUpASeat9BrowseAds", "FAV_USER_POINTER"]
+- ["C11PullUpASeat9BrowseAds", "IndexPath"]
+- ["C11PullUpASeat9BrowseAds", "Int"]
+- !private ["C11PullUpASeat9BrowseAds", "NSIndexPath"]
+- !private ["C11PullUpASeat9BrowseAds", "PFFile"]
+- !private ["C11PullUpASeat9BrowseAds", "PFObject"]
+- !private ["C11PullUpASeat9BrowseAds", "PFQuery"]
+- !private ["C11PullUpASeat9BrowseAds", "PFUser"]
+- !private ["C11PullUpASeat9BrowseAds", "UIButton"]
+- !private ["C11PullUpASeat9BrowseAds", "UIImage"]
+- ["C11PullUpASeat9BrowseAds", "UITableView"]
+- ["C11PullUpASeat9BrowseAds", "UITableViewCell"]
+- !private ["C11PullUpASeat9BrowseAds", "Void"]
+- ["C11PullUpASeat9BrowseAds", "callTAG"]
+- ["C11PullUpASeat9BrowseAds", "deinit"]
+- ["C11PullUpASeat9BrowseAds", "didReceiveMemoryWarning"]
+- ["C11PullUpASeat9BrowseAds", "init"]
+- ["C11PullUpASeat9BrowseAds", "numberOfSections"]
+- !private ["C11PullUpASeat9BrowseAds", "searchedAdsArray"]
+- !private ["C11PullUpASeat9BrowseAds", "simpleAlert"]
+- ["C11PullUpASeat9BrowseAds", "tableView"]
+- !private ["C11PullUpASeat9BrowseAds", "title"]
+- ["C11PullUpASeat9BrowseAds", "viewDidLoad"]
+- !private ["PSo15CALayerDelegate", "adDescrLabel"]
+- !private ["PSo15CALayerDelegate", "adImage"]
+- !private ["PSo15CALayerDelegate", "adTitleLabel"]
+- !private ["PSo15CALayerDelegate", "addToFavOutlet"]
+- !private ["PSo15CALayerDelegate", "dequeueReusableCell"]
+- !private ["PSo15CALayerDelegate", "image"]
+- !private ["PSo15CALayerDelegate", "tag"]
+- !private ["PSo15CALayerDelegate", "text"]
+- !private ["Ps7CVarArg", "CLASSIF_CLASS_NAME"]
+- !private ["Ps7CVarArg", "CLASSIF_DESCRIPTION"]
+- !private ["Ps7CVarArg", "CLASSIF_IMAGE1"]
+- !private ["Ps7CVarArg", "CLASSIF_TITLE"]
+- !private ["Ps7CVarArg", "FAV_AD_POINTER"]
+- !private ["Ps7CVarArg", "FAV_CLASS_NAME"]
+- !private ["Ps7CVarArg", "FAV_USERNAME"]
+- !private ["Ps7CVarArg", "FAV_USER_POINTER"]
+- !private ["Ps7CVarArg", "Index"]
+- !private ["Ps7CVarArg", "IndexDistance"]
+- !private ["Ps7CVarArg", "IntegerLiteralType"]
+- !private ["Ps7CVarArg", "PFObject"]
+- !private ["Ps7CVarArg", "PFQuery"]
+- !private ["Ps7CVarArg", "PFUser"]
+- !private ["Ps7CVarArg", "Stride"]
+- !private ["Ps7CVarArg", "SubSequence"]
+- !private ["Ps7CVarArg", "UIImage"]
+- !private ["Ps7CVarArg", "_DisabledRangeIndex"]
+- !private ["Ps7CVarArg", "_Element"]
+- !private ["Ps7CVarArg", "adDescrLabel"]
+- !private ["Ps7CVarArg", "adImage"]
+- !private ["Ps7CVarArg", "adTitleLabel"]
+- !private ["Ps7CVarArg", "addToFavOutlet"]
+- ["Ps7CVarArg", "callTAG"]
+- !private ["Ps7CVarArg", "count"]
+- !private ["Ps7CVarArg", "current"]
+- !private ["Ps7CVarArg", "dequeueReusableCell"]
+- ["Ps7CVarArg", "didReceiveMemoryWarning"]
+- !private ["Ps7CVarArg", "findObjectsInBackground"]
+- !private ["Ps7CVarArg", "getDataInBackground"]
+- !private ["Ps7CVarArg", "image"]
+- ["Ps7CVarArg", "init"]
+- ["Ps7CVarArg", "numberOfSections"]
+- !private ["Ps7CVarArg", "row"]
+- !private ["Ps7CVarArg", "saveInBackground"]
+- !private ["Ps7CVarArg", "searchedAdsArray"]
+- !private ["Ps7CVarArg", "simpleAlert"]
+- !private ["Ps7CVarArg", "subscript"]
+- ["Ps7CVarArg", "tableView"]
+- !private ["Ps7CVarArg", "tag"]
+- !private ["Ps7CVarArg", "text"]
+- !private ["Ps7CVarArg", "title"]
+- !private ["Ps7CVarArg", "username"]
+- ["Ps7CVarArg", "viewDidLoad"]
+- !private ["Ps7CVarArg", "whereKey"]
+- ["Ps7CVarArg", ""]
+- !private ["Vs9Character", "deinit"]
+- !private ["Ps10Collection", "Index"]
+- !private ["Ps10Collection", "IndexDistance"]
+- !private ["Ps10Collection", "Indices"]
+- !private ["Ps10Collection", "Iterator"]
+- !private ["Ps10Collection", "SubSequence"]
+- !private ["Ps10Collection", "_Element"]
+- !private ["Ps10Collection", "count"]
+- ["Ps10Collection", "init"]
+- !private ["Ps10Collection", "row"]
+- !private ["Ps10Collection", "subscript"]
+- !private ["Ps10Comparable", "IntegerLiteralType"]
+- !private ["Ps10Comparable", "Stride"]
+- !private ["Ps10Comparable", "_DisabledRangeIndex"]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps10Comparable", "row"]
+- !private ["Ps28CustomDebugStringConvertible", "CLASSIF_CLASS_NAME"]
+- !private ["Ps28CustomDebugStringConvertible", "CLASSIF_DESCRIPTION"]
+- !private ["Ps28CustomDebugStringConvertible", "CLASSIF_IMAGE1"]
+- !private ["Ps28CustomDebugStringConvertible", "CLASSIF_TITLE"]
+- !private ["Ps28CustomDebugStringConvertible", "FAV_AD_POINTER"]
+- !private ["Ps28CustomDebugStringConvertible", "FAV_CLASS_NAME"]
+- !private ["Ps28CustomDebugStringConvertible", "FAV_USERNAME"]
+- !private ["Ps28CustomDebugStringConvertible", "FAV_USER_POINTER"]
+- !private ["Ps28CustomDebugStringConvertible", "Index"]
+- !private ["Ps28CustomDebugStringConvertible", "IndexDistance"]
+- !private ["Ps28CustomDebugStringConvertible", "PFObject"]
+- !private ["Ps28CustomDebugStringConvertible", "PFQuery"]
+- !private ["Ps28CustomDebugStringConvertible", "PFUser"]
+- !private ["Ps28CustomDebugStringConvertible", "SubSequence"]
+- !private ["Ps28CustomDebugStringConvertible", "UIImage"]
+- !private ["Ps28CustomDebugStringConvertible", "_Element"]
+- !private ["Ps28CustomDebugStringConvertible", "adDescrLabel"]
+- !private ["Ps28CustomDebugStringConvertible", "adImage"]
+- !private ["Ps28CustomDebugStringConvertible", "adTitleLabel"]
+- !private ["Ps28CustomDebugStringConvertible", "addToFavOutlet"]
+- ["Ps28CustomDebugStringConvertible", "callTAG"]
+- !private ["Ps28CustomDebugStringConvertible", "count"]
+- !private ["Ps28CustomDebugStringConvertible", "current"]
+- !private ["Ps28CustomDebugStringConvertible", "dequeueReusableCell"]
+- ["Ps28CustomDebugStringConvertible", "didReceiveMemoryWarning"]
+- !private ["Ps28CustomDebugStringConvertible", "findObjectsInBackground"]
+- !private ["Ps28CustomDebugStringConvertible", "getDataInBackground"]
+- !private ["Ps28CustomDebugStringConvertible", "image"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "numberOfSections"]
+- !private ["Ps28CustomDebugStringConvertible", "row"]
+- !private ["Ps28CustomDebugStringConvertible", "saveInBackground"]
+- !private ["Ps28CustomDebugStringConvertible", "searchedAdsArray"]
+- !private ["Ps28CustomDebugStringConvertible", "simpleAlert"]
+- !private ["Ps28CustomDebugStringConvertible", "subscript"]
+- ["Ps28CustomDebugStringConvertible", "tableView"]
+- !private ["Ps28CustomDebugStringConvertible", "tag"]
+- !private ["Ps28CustomDebugStringConvertible", "text"]
+- !private ["Ps28CustomDebugStringConvertible", "title"]
+- !private ["Ps28CustomDebugStringConvertible", "username"]
+- ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- !private ["Ps28CustomDebugStringConvertible", "whereKey"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "IntegerLiteralType"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "Stride"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_DisabledRangeIndex"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "Index"]
+- !private ["Ps17CustomReflectable", "IndexDistance"]
+- !private ["Ps17CustomReflectable", "IntegerLiteralType"]
+- !private ["Ps17CustomReflectable", "Stride"]
+- !private ["Ps17CustomReflectable", "SubSequence"]
+- !private ["Ps17CustomReflectable", "_DisabledRangeIndex"]
+- !private ["Ps17CustomReflectable", "_Element"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "count"]
+- ["Ps17CustomReflectable", "init"]
+- !private ["Ps17CustomReflectable", "row"]
+- !private ["Ps17CustomReflectable", "subscript"]
+- !private ["Ps23CustomStringConvertible", "CLASSIF_CLASS_NAME"]
+- !private ["Ps23CustomStringConvertible", "CLASSIF_DESCRIPTION"]
+- !private ["Ps23CustomStringConvertible", "CLASSIF_IMAGE1"]
+- !private ["Ps23CustomStringConvertible", "CLASSIF_TITLE"]
+- !private ["Ps23CustomStringConvertible", "FAV_AD_POINTER"]
+- !private ["Ps23CustomStringConvertible", "FAV_CLASS_NAME"]
+- !private ["Ps23CustomStringConvertible", "FAV_USERNAME"]
+- !private ["Ps23CustomStringConvertible", "FAV_USER_POINTER"]
+- !private ["Ps23CustomStringConvertible", "Index"]
+- !private ["Ps23CustomStringConvertible", "IndexDistance"]
+- !private ["Ps23CustomStringConvertible", "IntegerLiteralType"]
+- !private ["Ps23CustomStringConvertible", "PFObject"]
+- !private ["Ps23CustomStringConvertible", "PFQuery"]
+- !private ["Ps23CustomStringConvertible", "PFUser"]
+- !private ["Ps23CustomStringConvertible", "Stride"]
+- !private ["Ps23CustomStringConvertible", "SubSequence"]
+- !private ["Ps23CustomStringConvertible", "UIImage"]
+- !private ["Ps23CustomStringConvertible", "_DisabledRangeIndex"]
+- !private ["Ps23CustomStringConvertible", "_Element"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "adDescrLabel"]
+- !private ["Ps23CustomStringConvertible", "adImage"]
+- !private ["Ps23CustomStringConvertible", "adTitleLabel"]
+- !private ["Ps23CustomStringConvertible", "addToFavOutlet"]
+- ["Ps23CustomStringConvertible", "callTAG"]
+- !private ["Ps23CustomStringConvertible", "count"]
+- !private ["Ps23CustomStringConvertible", "current"]
+- !private ["Ps23CustomStringConvertible", "dequeueReusableCell"]
+- ["Ps23CustomStringConvertible", "didReceiveMemoryWarning"]
+- !private ["Ps23CustomStringConvertible", "findObjectsInBackground"]
+- !private ["Ps23CustomStringConvertible", "getDataInBackground"]
+- !private ["Ps23CustomStringConvertible", "image"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "numberOfSections"]
+- !private ["Ps23CustomStringConvertible", "row"]
+- !private ["Ps23CustomStringConvertible", "saveInBackground"]
+- !private ["Ps23CustomStringConvertible", "searchedAdsArray"]
+- !private ["Ps23CustomStringConvertible", "simpleAlert"]
+- !private ["Ps23CustomStringConvertible", "subscript"]
+- ["Ps23CustomStringConvertible", "tableView"]
+- !private ["Ps23CustomStringConvertible", "tag"]
+- !private ["Ps23CustomStringConvertible", "text"]
+- !private ["Ps23CustomStringConvertible", "title"]
+- !private ["Ps23CustomStringConvertible", "username"]
+- ["Ps23CustomStringConvertible", "viewDidLoad"]
+- !private ["Ps23CustomStringConvertible", "whereKey"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["V10Foundation4Data", "deinit"]
+- !private ["Vs27DefaultBidirectionalIndices", "Index"]
+- !private ["Vs27DefaultBidirectionalIndices", "Iterator"]
+- !private ["Vs27DefaultBidirectionalIndices", "SubSequence"]
+- !private ["Vs27DefaultBidirectionalIndices", "_Element"]
+- !private ["Vs26DefaultRandomAccessIndices", "Index"]
+- !private ["Vs26DefaultRandomAccessIndices", "IndexDistance"]
+- !private ["Vs26DefaultRandomAccessIndices", "Indices"]
+- !private ["Vs26DefaultRandomAccessIndices", "Iterator"]
+- !private ["Vs26DefaultRandomAccessIndices", "SubSequence"]
+- !private ["Vs26DefaultRandomAccessIndices", "_Element"]
+- !private ["Sd", "deinit"]
+- !private ["Ps9Equatable", "CLASSIF_CLASS_NAME"]
+- !private ["Ps9Equatable", "CLASSIF_DESCRIPTION"]
+- !private ["Ps9Equatable", "CLASSIF_IMAGE1"]
+- !private ["Ps9Equatable", "CLASSIF_TITLE"]
+- !private ["Ps9Equatable", "FAV_AD_POINTER"]
+- !private ["Ps9Equatable", "FAV_CLASS_NAME"]
+- !private ["Ps9Equatable", "FAV_USERNAME"]
+- !private ["Ps9Equatable", "FAV_USER_POINTER"]
+- !private ["Ps9Equatable", "IntegerLiteralType"]
+- !private ["Ps9Equatable", "PFObject"]
+- !private ["Ps9Equatable", "PFQuery"]
+- !private ["Ps9Equatable", "PFUser"]
+- !private ["Ps9Equatable", "Stride"]
+- !private ["Ps9Equatable", "UIImage"]
+- !private ["Ps9Equatable", "_DisabledRangeIndex"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "adDescrLabel"]
+- !private ["Ps9Equatable", "adImage"]
+- !private ["Ps9Equatable", "adTitleLabel"]
+- !private ["Ps9Equatable", "addToFavOutlet"]
+- ["Ps9Equatable", "callTAG"]
+- !private ["Ps9Equatable", "current"]
+- !private ["Ps9Equatable", "dequeueReusableCell"]
+- ["Ps9Equatable", "didReceiveMemoryWarning"]
+- !private ["Ps9Equatable", "findObjectsInBackground"]
+- !private ["Ps9Equatable", "getDataInBackground"]
+- !private ["Ps9Equatable", "image"]
+- !private ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "numberOfSections"]
+- !private ["Ps9Equatable", "row"]
+- !private ["Ps9Equatable", "saveInBackground"]
+- !private ["Ps9Equatable", "searchedAdsArray"]
+- !private ["Ps9Equatable", "simpleAlert"]
+- !private ["Ps9Equatable", "subscript"]
+- ["Ps9Equatable", "tableView"]
+- !private ["Ps9Equatable", "tag"]
+- !private ["Ps9Equatable", "text"]
+- !private ["Ps9Equatable", "title"]
+- !private ["Ps9Equatable", "username"]
+- ["Ps9Equatable", "viewDidLoad"]
+- !private ["Ps9Equatable", "whereKey"]
+- ["Ps9Equatable", ""]
+- !private ["Ps5Error", "deinit"]
+- !private ["Ps5Error", "localizedDescription"]
+- !private ["Ps25ExpressibleByArrayLiteral", "Index"]
+- !private ["Ps25ExpressibleByArrayLiteral", "IndexDistance"]
+- !private ["Ps25ExpressibleByArrayLiteral", "SubSequence"]
+- !private ["Ps25ExpressibleByArrayLiteral", "_Element"]
+- !private ["Ps25ExpressibleByArrayLiteral", "count"]
+- ["Ps25ExpressibleByArrayLiteral", "init"]
+- !private ["Ps25ExpressibleByArrayLiteral", "row"]
+- !private ["Ps25ExpressibleByArrayLiteral", "subscript"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "IntegerLiteralType"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "Stride"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "_DisabledRangeIndex"]
+- !private ["Ps32ExpressibleByStringInterpolation", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Sf", "deinit"]
+- !private ["Ps8Hashable", "CLASSIF_CLASS_NAME"]
+- !private ["Ps8Hashable", "CLASSIF_DESCRIPTION"]
+- !private ["Ps8Hashable", "CLASSIF_IMAGE1"]
+- !private ["Ps8Hashable", "CLASSIF_TITLE"]
+- !private ["Ps8Hashable", "FAV_AD_POINTER"]
+- !private ["Ps8Hashable", "FAV_CLASS_NAME"]
+- !private ["Ps8Hashable", "FAV_USERNAME"]
+- !private ["Ps8Hashable", "FAV_USER_POINTER"]
+- !private ["Ps8Hashable", "IntegerLiteralType"]
+- !private ["Ps8Hashable", "PFObject"]
+- !private ["Ps8Hashable", "PFQuery"]
+- !private ["Ps8Hashable", "PFUser"]
+- !private ["Ps8Hashable", "Stride"]
+- !private ["Ps8Hashable", "UIImage"]
+- !private ["Ps8Hashable", "_DisabledRangeIndex"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "adDescrLabel"]
+- !private ["Ps8Hashable", "adImage"]
+- !private ["Ps8Hashable", "adTitleLabel"]
+- !private ["Ps8Hashable", "addToFavOutlet"]
+- ["Ps8Hashable", "callTAG"]
+- !private ["Ps8Hashable", "current"]
+- !private ["Ps8Hashable", "dequeueReusableCell"]
+- ["Ps8Hashable", "didReceiveMemoryWarning"]
+- !private ["Ps8Hashable", "findObjectsInBackground"]
+- !private ["Ps8Hashable", "getDataInBackground"]
+- !private ["Ps8Hashable", "image"]
+- !private ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "numberOfSections"]
+- !private ["Ps8Hashable", "row"]
+- !private ["Ps8Hashable", "saveInBackground"]
+- !private ["Ps8Hashable", "searchedAdsArray"]
+- !private ["Ps8Hashable", "simpleAlert"]
+- !private ["Ps8Hashable", "subscript"]
+- ["Ps8Hashable", "tableView"]
+- !private ["Ps8Hashable", "tag"]
+- !private ["Ps8Hashable", "text"]
+- !private ["Ps8Hashable", "title"]
+- !private ["Ps8Hashable", "username"]
+- ["Ps8Hashable", "viewDidLoad"]
+- !private ["Ps8Hashable", "whereKey"]
+- ["Ps8Hashable", ""]
+- ["V10Foundation9IndexPath", "deinit"]
+- !private ["V10Foundation9IndexPath", "row"]
+- !private ["Ps9Indexable", "Index"]
+- !private ["Ps9Indexable", "IndexDistance"]
+- !private ["Ps9Indexable", "Indices"]
+- !private ["Ps9Indexable", "Iterator"]
+- !private ["Ps9Indexable", "SubSequence"]
+- !private ["Ps9Indexable", "_Element"]
+- !private ["Ps9Indexable", "count"]
+- ["Ps9Indexable", "init"]
+- !private ["Ps9Indexable", "row"]
+- !private ["Ps9Indexable", "subscript"]
+- !private ["Ps13IndexableBase", "Index"]
+- !private ["Ps13IndexableBase", "IndexDistance"]
+- !private ["Ps13IndexableBase", "Indices"]
+- !private ["Ps13IndexableBase", "Iterator"]
+- !private ["Ps13IndexableBase", "SubSequence"]
+- !private ["Ps13IndexableBase", "_Element"]
+- !private ["Ps13IndexableBase", "count"]
+- ["Ps13IndexableBase", "init"]
+- !private ["Ps13IndexableBase", "row"]
+- !private ["Ps13IndexableBase", "subscript"]
+- !private ["Vs16IndexingIterator", "Element"]
+- !private ["Si", "IntegerLiteralType"]
+- !private ["Si", "Stride"]
+- !private ["Si", "_DisabledRangeIndex"]
+- ["Si", "deinit"]
+- !private ["Vs5Int16", "deinit"]
+- !private ["Vs5Int32", "deinit"]
+- !private ["Vs5Int64", "deinit"]
+- !private ["Vs4Int8", "deinit"]
+- !private ["Ps7Integer", "IntegerLiteralType"]
+- !private ["Ps7Integer", "Stride"]
+- !private ["Ps7Integer", "_DisabledRangeIndex"]
+- !private ["Ps17IntegerArithmetic", "IntegerLiteralType"]
+- !private ["Ps17IntegerArithmetic", "Stride"]
+- !private ["Ps17IntegerArithmetic", "_DisabledRangeIndex"]
+- !private ["Ps16IteratorProtocol", "Element"]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "IntegerLiteralType"]
+- !private ["Ps10MirrorPath", "Stride"]
+- !private ["Ps10MirrorPath", "_DisabledRangeIndex"]
+- !private ["Ps10MirrorPath", "init"]
+- !private ["Ps17MutableCollection", "Index"]
+- !private ["Ps17MutableCollection", "IndexDistance"]
+- !private ["Ps17MutableCollection", "SubSequence"]
+- !private ["Ps17MutableCollection", "_Element"]
+- !private ["Ps17MutableCollection", "count"]
+- ["Ps17MutableCollection", "init"]
+- !private ["Ps17MutableCollection", "row"]
+- !private ["Ps17MutableCollection", "subscript"]
+- !private ["Ps16MutableIndexable", "Index"]
+- !private ["Ps16MutableIndexable", "IndexDistance"]
+- !private ["Ps16MutableIndexable", "SubSequence"]
+- !private ["Ps16MutableIndexable", "_Element"]
+- !private ["Ps16MutableIndexable", "count"]
+- ["Ps16MutableIndexable", "init"]
+- !private ["Ps16MutableIndexable", "row"]
+- !private ["Ps16MutableIndexable", "subscript"]
+- ["CSo7NSCoder", "deinit"]
+- !private ["PSo8NSCoding", "CLASSIF_CLASS_NAME"]
+- !private ["PSo8NSCoding", "CLASSIF_DESCRIPTION"]
+- !private ["PSo8NSCoding", "CLASSIF_IMAGE1"]
+- !private ["PSo8NSCoding", "CLASSIF_TITLE"]
+- !private ["PSo8NSCoding", "FAV_AD_POINTER"]
+- !private ["PSo8NSCoding", "FAV_CLASS_NAME"]
+- !private ["PSo8NSCoding", "FAV_USERNAME"]
+- !private ["PSo8NSCoding", "FAV_USER_POINTER"]
+- !private ["PSo8NSCoding", "PFObject"]
+- !private ["PSo8NSCoding", "PFQuery"]
+- !private ["PSo8NSCoding", "PFUser"]
+- !private ["PSo8NSCoding", "UIImage"]
+- !private ["PSo8NSCoding", "adDescrLabel"]
+- !private ["PSo8NSCoding", "adImage"]
+- !private ["PSo8NSCoding", "adTitleLabel"]
+- !private ["PSo8NSCoding", "addToFavOutlet"]
+- ["PSo8NSCoding", "callTAG"]
+- !private ["PSo8NSCoding", "dequeueReusableCell"]
+- ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- !private ["PSo8NSCoding", "image"]
+- !private ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "numberOfSections"]
+- !private ["PSo8NSCoding", "row"]
+- !private ["PSo8NSCoding", "searchedAdsArray"]
+- !private ["PSo8NSCoding", "simpleAlert"]
+- ["PSo8NSCoding", "tableView"]
+- !private ["PSo8NSCoding", "tag"]
+- !private ["PSo8NSCoding", "text"]
+- !private ["PSo8NSCoding", "title"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "findObjectsInBackground"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo9NSCopying", "row"]
+- !private ["PSo9NSCopying", "whereKey"]
+- !private ["PSo26NSExtensionRequestHandling", "CLASSIF_CLASS_NAME"]
+- !private ["PSo26NSExtensionRequestHandling", "CLASSIF_DESCRIPTION"]
+- !private ["PSo26NSExtensionRequestHandling", "CLASSIF_IMAGE1"]
+- !private ["PSo26NSExtensionRequestHandling", "CLASSIF_TITLE"]
+- !private ["PSo26NSExtensionRequestHandling", "FAV_AD_POINTER"]
+- !private ["PSo26NSExtensionRequestHandling", "FAV_CLASS_NAME"]
+- !private ["PSo26NSExtensionRequestHandling", "FAV_USERNAME"]
+- !private ["PSo26NSExtensionRequestHandling", "FAV_USER_POINTER"]
+- !private ["PSo26NSExtensionRequestHandling", "PFObject"]
+- !private ["PSo26NSExtensionRequestHandling", "PFQuery"]
+- !private ["PSo26NSExtensionRequestHandling", "PFUser"]
+- !private ["PSo26NSExtensionRequestHandling", "UIImage"]
+- ["PSo26NSExtensionRequestHandling", "callTAG"]
+- ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- !private ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "numberOfSections"]
+- !private ["PSo26NSExtensionRequestHandling", "searchedAdsArray"]
+- !private ["PSo26NSExtensionRequestHandling", "simpleAlert"]
+- ["PSo26NSExtensionRequestHandling", "tableView"]
+- !private ["PSo26NSExtensionRequestHandling", "title"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["CSo11NSIndexPath", "deinit"]
+- !private ["CSo11NSIndexPath", "row"]
+- !private ["PSo16NSMutableCopying", "init"]
+- !private ["CSo8NSObject", "AdCell"]
+- !private ["CSo8NSObject", "AnyObject"]
+- !private ["CSo8NSObject", "CLASSIF_CLASS_NAME"]
+- !private ["CSo8NSObject", "CLASSIF_DESCRIPTION"]
+- !private ["CSo8NSObject", "CLASSIF_IMAGE1"]
+- !private ["CSo8NSObject", "CLASSIF_TITLE"]
+- !private ["CSo8NSObject", "FAV_AD_POINTER"]
+- !private ["CSo8NSObject", "FAV_CLASS_NAME"]
+- !private ["CSo8NSObject", "FAV_USERNAME"]
+- !private ["CSo8NSObject", "FAV_USER_POINTER"]
+- ["CSo8NSObject", "IndexPath"]
+- ["CSo8NSObject", "Int"]
+- !private ["CSo8NSObject", "NSIndexPath"]
+- !private ["CSo8NSObject", "PFFile"]
+- !private ["CSo8NSObject", "PFObject"]
+- !private ["CSo8NSObject", "PFQuery"]
+- !private ["CSo8NSObject", "PFUser"]
+- !private ["CSo8NSObject", "UIButton"]
+- !private ["CSo8NSObject", "UIImage"]
+- ["CSo8NSObject", "UITableView"]
+- ["CSo8NSObject", "UITableViewCell"]
+- !private ["CSo8NSObject", "Void"]
+- !private ["CSo8NSObject", "adDescrLabel"]
+- !private ["CSo8NSObject", "adImage"]
+- !private ["CSo8NSObject", "adTitleLabel"]
+- !private ["CSo8NSObject", "addToFavOutlet"]
+- ["CSo8NSObject", "callTAG"]
+- !private ["CSo8NSObject", "current"]
+- !private ["CSo8NSObject", "dequeueReusableCell"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- !private ["CSo8NSObject", "findObjectsInBackground"]
+- !private ["CSo8NSObject", "getDataInBackground"]
+- !private ["CSo8NSObject", "image"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "numberOfSections"]
+- !private ["CSo8NSObject", "row"]
+- !private ["CSo8NSObject", "saveInBackground"]
+- !private ["CSo8NSObject", "searchedAdsArray"]
+- !private ["CSo8NSObject", "simpleAlert"]
+- !private ["CSo8NSObject", "subscript"]
+- ["CSo8NSObject", "tableView"]
+- !private ["CSo8NSObject", "tag"]
+- !private ["CSo8NSObject", "text"]
+- !private ["CSo8NSObject", "title"]
+- !private ["CSo8NSObject", "username"]
+- ["CSo8NSObject", "viewDidLoad"]
+- !private ["CSo8NSObject", "whereKey"]
+- !private ["PSo16NSObjectProtocol", "CLASSIF_CLASS_NAME"]
+- !private ["PSo16NSObjectProtocol", "CLASSIF_DESCRIPTION"]
+- !private ["PSo16NSObjectProtocol", "CLASSIF_IMAGE1"]
+- !private ["PSo16NSObjectProtocol", "CLASSIF_TITLE"]
+- !private ["PSo16NSObjectProtocol", "FAV_AD_POINTER"]
+- !private ["PSo16NSObjectProtocol", "FAV_CLASS_NAME"]
+- !private ["PSo16NSObjectProtocol", "FAV_USERNAME"]
+- !private ["PSo16NSObjectProtocol", "FAV_USER_POINTER"]
+- !private ["PSo16NSObjectProtocol", "PFObject"]
+- !private ["PSo16NSObjectProtocol", "PFQuery"]
+- !private ["PSo16NSObjectProtocol", "PFUser"]
+- !private ["PSo16NSObjectProtocol", "UIImage"]
+- !private ["PSo16NSObjectProtocol", "adDescrLabel"]
+- !private ["PSo16NSObjectProtocol", "adImage"]
+- !private ["PSo16NSObjectProtocol", "adTitleLabel"]
+- !private ["PSo16NSObjectProtocol", "addToFavOutlet"]
+- ["PSo16NSObjectProtocol", "callTAG"]
+- !private ["PSo16NSObjectProtocol", "current"]
+- !private ["PSo16NSObjectProtocol", "dequeueReusableCell"]
+- ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- !private ["PSo16NSObjectProtocol", "findObjectsInBackground"]
+- !private ["PSo16NSObjectProtocol", "getDataInBackground"]
+- !private ["PSo16NSObjectProtocol", "image"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "numberOfSections"]
+- !private ["PSo16NSObjectProtocol", "row"]
+- !private ["PSo16NSObjectProtocol", "saveInBackground"]
+- !private ["PSo16NSObjectProtocol", "searchedAdsArray"]
+- !private ["PSo16NSObjectProtocol", "simpleAlert"]
+- !private ["PSo16NSObjectProtocol", "subscript"]
+- ["PSo16NSObjectProtocol", "tableView"]
+- !private ["PSo16NSObjectProtocol", "tag"]
+- !private ["PSo16NSObjectProtocol", "text"]
+- !private ["PSo16NSObjectProtocol", "title"]
+- !private ["PSo16NSObjectProtocol", "username"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- !private ["PSo16NSObjectProtocol", "whereKey"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["PSo14NSSecureCoding", "row"]
+- !private ["CSo8NSString", "init"]
+- ["Sq", "deinit"]
+- ["CSo6PFFile", "deinit"]
+- !private ["CSo6PFFile", "getDataInBackground"]
+- !private ["CSo8PFObject", "current"]
+- ["CSo8PFObject", "deinit"]
+- !private ["CSo8PFObject", "init"]
+- !private ["CSo8PFObject", "saveInBackground"]
+- !private ["CSo8PFObject", "subscript"]
+- !private ["CSo8PFObject", "username"]
+- !private ["CSo7PFQuery", "deinit"]
+- !private ["CSo7PFQuery", "findObjectsInBackground"]
+- !private ["CSo7PFQuery", "init"]
+- !private ["CSo7PFQuery", "whereKey"]
+- !private ["PSo13PFSubclassing", "current"]
+- !private ["PSo13PFSubclassing", "username"]
+- !private ["CSo6PFUser", "current"]
+- !private ["CSo6PFUser", "deinit"]
+- !private ["CSo6PFUser", "username"]
+- !private ["Ps22RandomAccessCollection", "Index"]
+- !private ["Ps22RandomAccessCollection", "IndexDistance"]
+- !private ["Ps22RandomAccessCollection", "Indices"]
+- !private ["Ps22RandomAccessCollection", "Iterator"]
+- !private ["Ps22RandomAccessCollection", "SubSequence"]
+- !private ["Ps22RandomAccessCollection", "_Element"]
+- !private ["Ps22RandomAccessCollection", "count"]
+- ["Ps22RandomAccessCollection", "init"]
+- !private ["Ps22RandomAccessCollection", "row"]
+- !private ["Ps22RandomAccessCollection", "subscript"]
+- !private ["Ps21RandomAccessIndexable", "Index"]
+- !private ["Ps21RandomAccessIndexable", "IndexDistance"]
+- !private ["Ps21RandomAccessIndexable", "Indices"]
+- !private ["Ps21RandomAccessIndexable", "Iterator"]
+- !private ["Ps21RandomAccessIndexable", "SubSequence"]
+- !private ["Ps21RandomAccessIndexable", "_Element"]
+- !private ["Ps21RandomAccessIndexable", "count"]
+- ["Ps21RandomAccessIndexable", "init"]
+- !private ["Ps21RandomAccessIndexable", "row"]
+- !private ["Ps21RandomAccessIndexable", "subscript"]
+- !private ["Vs17RandomAccessSlice", "Index"]
+- !private ["Vs17RandomAccessSlice", "IndexDistance"]
+- !private ["Vs17RandomAccessSlice", "Indices"]
+- !private ["Vs17RandomAccessSlice", "Iterator"]
+- !private ["Vs17RandomAccessSlice", "SubSequence"]
+- !private ["Vs17RandomAccessSlice", "_Element"]
+- !private ["Ps26RangeReplaceableCollection", "Index"]
+- !private ["Ps26RangeReplaceableCollection", "IndexDistance"]
+- !private ["Ps26RangeReplaceableCollection", "SubSequence"]
+- !private ["Ps26RangeReplaceableCollection", "_Element"]
+- !private ["Ps26RangeReplaceableCollection", "count"]
+- ["Ps26RangeReplaceableCollection", "init"]
+- !private ["Ps26RangeReplaceableCollection", "subscript"]
+- !private ["Ps25RangeReplaceableIndexable", "Index"]
+- !private ["Ps25RangeReplaceableIndexable", "IndexDistance"]
+- !private ["Ps25RangeReplaceableIndexable", "SubSequence"]
+- !private ["Ps25RangeReplaceableIndexable", "_Element"]
+- !private ["Ps25RangeReplaceableIndexable", "count"]
+- ["Ps25RangeReplaceableIndexable", "init"]
+- !private ["Ps25RangeReplaceableIndexable", "subscript"]
+- !private ["P10Foundation20ReferenceConvertible", "row"]
+- !private ["Ps8Sequence", "Element"]
+- !private ["Ps8Sequence", "Index"]
+- !private ["Ps8Sequence", "IndexDistance"]
+- !private ["Ps8Sequence", "Indices"]
+- !private ["Ps8Sequence", "Iterator"]
+- !private ["Ps8Sequence", "SubSequence"]
+- !private ["Ps8Sequence", "_Element"]
+- !private ["Ps8Sequence", "count"]
+- ["Ps8Sequence", "init"]
+- !private ["Ps8Sequence", "row"]
+- !private ["Ps8Sequence", "subscript"]
+- !private ["Ps13SignedInteger", "IntegerLiteralType"]
+- !private ["Ps13SignedInteger", "Stride"]
+- !private ["Ps13SignedInteger", "_DisabledRangeIndex"]
+- !private ["Ps12SignedNumber", "IntegerLiteralType"]
+- !private ["Ps12SignedNumber", "Stride"]
+- !private ["Ps12SignedNumber", "_DisabledRangeIndex"]
+- !private ["Vs5Slice", "Index"]
+- !private ["Vs5Slice", "Iterator"]
+- !private ["Vs5Slice", "SubSequence"]
+- !private ["Vs5Slice", "_Element"]
+- !private ["Ps10Strideable", "IntegerLiteralType"]
+- !private ["Ps10Strideable", "Stride"]
+- !private ["Ps10Strideable", "_DisabledRangeIndex"]
+- ["SS", "deinit"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "adDescrLabel"]
+- !private ["PSo29UIAccessibilityIdentification", "adImage"]
+- !private ["PSo29UIAccessibilityIdentification", "adTitleLabel"]
+- !private ["PSo29UIAccessibilityIdentification", "addToFavOutlet"]
+- !private ["PSo29UIAccessibilityIdentification", "dequeueReusableCell"]
+- !private ["PSo29UIAccessibilityIdentification", "image"]
+- !private ["PSo29UIAccessibilityIdentification", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "tag"]
+- !private ["PSo29UIAccessibilityIdentification", "text"]
+- !private ["PSo12UIAppearance", "adDescrLabel"]
+- !private ["PSo12UIAppearance", "adImage"]
+- !private ["PSo12UIAppearance", "adTitleLabel"]
+- !private ["PSo12UIAppearance", "addToFavOutlet"]
+- !private ["PSo12UIAppearance", "dequeueReusableCell"]
+- !private ["PSo12UIAppearance", "image"]
+- !private ["PSo12UIAppearance", "tag"]
+- !private ["PSo12UIAppearance", "text"]
+- !private ["PSo21UIAppearanceContainer", "CLASSIF_CLASS_NAME"]
+- !private ["PSo21UIAppearanceContainer", "CLASSIF_DESCRIPTION"]
+- !private ["PSo21UIAppearanceContainer", "CLASSIF_IMAGE1"]
+- !private ["PSo21UIAppearanceContainer", "CLASSIF_TITLE"]
+- !private ["PSo21UIAppearanceContainer", "FAV_AD_POINTER"]
+- !private ["PSo21UIAppearanceContainer", "FAV_CLASS_NAME"]
+- !private ["PSo21UIAppearanceContainer", "FAV_USERNAME"]
+- !private ["PSo21UIAppearanceContainer", "FAV_USER_POINTER"]
+- !private ["PSo21UIAppearanceContainer", "PFObject"]
+- !private ["PSo21UIAppearanceContainer", "PFQuery"]
+- !private ["PSo21UIAppearanceContainer", "PFUser"]
+- !private ["PSo21UIAppearanceContainer", "UIImage"]
+- !private ["PSo21UIAppearanceContainer", "adDescrLabel"]
+- !private ["PSo21UIAppearanceContainer", "adImage"]
+- !private ["PSo21UIAppearanceContainer", "adTitleLabel"]
+- !private ["PSo21UIAppearanceContainer", "addToFavOutlet"]
+- ["PSo21UIAppearanceContainer", "callTAG"]
+- !private ["PSo21UIAppearanceContainer", "dequeueReusableCell"]
+- ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- !private ["PSo21UIAppearanceContainer", "image"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "numberOfSections"]
+- !private ["PSo21UIAppearanceContainer", "searchedAdsArray"]
+- !private ["PSo21UIAppearanceContainer", "simpleAlert"]
+- ["PSo21UIAppearanceContainer", "tableView"]
+- !private ["PSo21UIAppearanceContainer", "tag"]
+- !private ["PSo21UIAppearanceContainer", "text"]
+- !private ["PSo21UIAppearanceContainer", "title"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["CSo8UIButton", "deinit"]
+- !private ["CSo8UIButton", "tag"]
+- !private ["PSo18UIContentContainer", "CLASSIF_CLASS_NAME"]
+- !private ["PSo18UIContentContainer", "CLASSIF_DESCRIPTION"]
+- !private ["PSo18UIContentContainer", "CLASSIF_IMAGE1"]
+- !private ["PSo18UIContentContainer", "CLASSIF_TITLE"]
+- !private ["PSo18UIContentContainer", "FAV_AD_POINTER"]
+- !private ["PSo18UIContentContainer", "FAV_CLASS_NAME"]
+- !private ["PSo18UIContentContainer", "FAV_USERNAME"]
+- !private ["PSo18UIContentContainer", "FAV_USER_POINTER"]
+- !private ["PSo18UIContentContainer", "PFObject"]
+- !private ["PSo18UIContentContainer", "PFQuery"]
+- !private ["PSo18UIContentContainer", "PFUser"]
+- !private ["PSo18UIContentContainer", "UIImage"]
+- ["PSo18UIContentContainer", "callTAG"]
+- ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- !private ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "numberOfSections"]
+- !private ["PSo18UIContentContainer", "searchedAdsArray"]
+- !private ["PSo18UIContentContainer", "simpleAlert"]
+- ["PSo18UIContentContainer", "tableView"]
+- !private ["PSo18UIContentContainer", "title"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo30UIContentSizeCategoryAdjusting", "text"]
+- !private ["CSo9UIControl", "tag"]
+- !private ["PSo17UICoordinateSpace", "adDescrLabel"]
+- !private ["PSo17UICoordinateSpace", "adImage"]
+- !private ["PSo17UICoordinateSpace", "adTitleLabel"]
+- !private ["PSo17UICoordinateSpace", "addToFavOutlet"]
+- !private ["PSo17UICoordinateSpace", "dequeueReusableCell"]
+- !private ["PSo17UICoordinateSpace", "image"]
+- !private ["PSo17UICoordinateSpace", "tag"]
+- !private ["PSo17UICoordinateSpace", "text"]
+- !private ["PSo13UIDynamicItem", "adDescrLabel"]
+- !private ["PSo13UIDynamicItem", "adImage"]
+- !private ["PSo13UIDynamicItem", "adTitleLabel"]
+- !private ["PSo13UIDynamicItem", "addToFavOutlet"]
+- !private ["PSo13UIDynamicItem", "dequeueReusableCell"]
+- !private ["PSo13UIDynamicItem", "image"]
+- !private ["PSo13UIDynamicItem", "tag"]
+- !private ["PSo13UIDynamicItem", "text"]
+- !private ["PSo18UIFocusEnvironment", "CLASSIF_CLASS_NAME"]
+- !private ["PSo18UIFocusEnvironment", "CLASSIF_DESCRIPTION"]
+- !private ["PSo18UIFocusEnvironment", "CLASSIF_IMAGE1"]
+- !private ["PSo18UIFocusEnvironment", "CLASSIF_TITLE"]
+- !private ["PSo18UIFocusEnvironment", "FAV_AD_POINTER"]
+- !private ["PSo18UIFocusEnvironment", "FAV_CLASS_NAME"]
+- !private ["PSo18UIFocusEnvironment", "FAV_USERNAME"]
+- !private ["PSo18UIFocusEnvironment", "FAV_USER_POINTER"]
+- !private ["PSo18UIFocusEnvironment", "PFObject"]
+- !private ["PSo18UIFocusEnvironment", "PFQuery"]
+- !private ["PSo18UIFocusEnvironment", "PFUser"]
+- !private ["PSo18UIFocusEnvironment", "UIImage"]
+- !private ["PSo18UIFocusEnvironment", "adDescrLabel"]
+- !private ["PSo18UIFocusEnvironment", "adImage"]
+- !private ["PSo18UIFocusEnvironment", "adTitleLabel"]
+- !private ["PSo18UIFocusEnvironment", "addToFavOutlet"]
+- ["PSo18UIFocusEnvironment", "callTAG"]
+- !private ["PSo18UIFocusEnvironment", "dequeueReusableCell"]
+- ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UIFocusEnvironment", "image"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "numberOfSections"]
+- !private ["PSo18UIFocusEnvironment", "searchedAdsArray"]
+- !private ["PSo18UIFocusEnvironment", "simpleAlert"]
+- ["PSo18UIFocusEnvironment", "tableView"]
+- !private ["PSo18UIFocusEnvironment", "tag"]
+- !private ["PSo18UIFocusEnvironment", "text"]
+- !private ["PSo18UIFocusEnvironment", "title"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo11UIFocusItem", "adDescrLabel"]
+- !private ["PSo11UIFocusItem", "adImage"]
+- !private ["PSo11UIFocusItem", "adTitleLabel"]
+- !private ["PSo11UIFocusItem", "addToFavOutlet"]
+- !private ["PSo11UIFocusItem", "dequeueReusableCell"]
+- !private ["PSo11UIFocusItem", "image"]
+- !private ["PSo11UIFocusItem", "tag"]
+- !private ["PSo11UIFocusItem", "text"]
+- !private ["PSo27UIGestureRecognizerDelegate", "adDescrLabel"]
+- !private ["PSo27UIGestureRecognizerDelegate", "adImage"]
+- !private ["PSo27UIGestureRecognizerDelegate", "adTitleLabel"]
+- !private ["PSo27UIGestureRecognizerDelegate", "addToFavOutlet"]
+- !private ["CSo7UIImage", "init"]
+- !private ["CSo11UIImageView", "image"]
+- !private ["CSo7UILabel", "text"]
+- !private ["CSo11UIResponder", "AdCell"]
+- !private ["CSo11UIResponder", "AnyObject"]
+- !private ["CSo11UIResponder", "CLASSIF_CLASS_NAME"]
+- !private ["CSo11UIResponder", "CLASSIF_DESCRIPTION"]
+- !private ["CSo11UIResponder", "CLASSIF_IMAGE1"]
+- !private ["CSo11UIResponder", "CLASSIF_TITLE"]
+- !private ["CSo11UIResponder", "FAV_AD_POINTER"]
+- !private ["CSo11UIResponder", "FAV_CLASS_NAME"]
+- !private ["CSo11UIResponder", "FAV_USERNAME"]
+- !private ["CSo11UIResponder", "FAV_USER_POINTER"]
+- ["CSo11UIResponder", "IndexPath"]
+- ["CSo11UIResponder", "Int"]
+- !private ["CSo11UIResponder", "NSIndexPath"]
+- !private ["CSo11UIResponder", "PFFile"]
+- !private ["CSo11UIResponder", "PFObject"]
+- !private ["CSo11UIResponder", "PFQuery"]
+- !private ["CSo11UIResponder", "PFUser"]
+- !private ["CSo11UIResponder", "UIButton"]
+- !private ["CSo11UIResponder", "UIImage"]
+- ["CSo11UIResponder", "UITableView"]
+- ["CSo11UIResponder", "UITableViewCell"]
+- !private ["CSo11UIResponder", "Void"]
+- !private ["CSo11UIResponder", "adDescrLabel"]
+- !private ["CSo11UIResponder", "adImage"]
+- !private ["CSo11UIResponder", "adTitleLabel"]
+- !private ["CSo11UIResponder", "addToFavOutlet"]
+- ["CSo11UIResponder", "callTAG"]
+- !private ["CSo11UIResponder", "dequeueReusableCell"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- !private ["CSo11UIResponder", "image"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "numberOfSections"]
+- !private ["CSo11UIResponder", "searchedAdsArray"]
+- !private ["CSo11UIResponder", "simpleAlert"]
+- ["CSo11UIResponder", "tableView"]
+- !private ["CSo11UIResponder", "tag"]
+- !private ["CSo11UIResponder", "text"]
+- !private ["CSo11UIResponder", "title"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- !private ["PSo30UIResponderStandardEditActions", "CLASSIF_CLASS_NAME"]
+- !private ["PSo30UIResponderStandardEditActions", "CLASSIF_DESCRIPTION"]
+- !private ["PSo30UIResponderStandardEditActions", "CLASSIF_IMAGE1"]
+- !private ["PSo30UIResponderStandardEditActions", "CLASSIF_TITLE"]
+- !private ["PSo30UIResponderStandardEditActions", "FAV_AD_POINTER"]
+- !private ["PSo30UIResponderStandardEditActions", "FAV_CLASS_NAME"]
+- !private ["PSo30UIResponderStandardEditActions", "FAV_USERNAME"]
+- !private ["PSo30UIResponderStandardEditActions", "FAV_USER_POINTER"]
+- !private ["PSo30UIResponderStandardEditActions", "PFObject"]
+- !private ["PSo30UIResponderStandardEditActions", "PFQuery"]
+- !private ["PSo30UIResponderStandardEditActions", "PFUser"]
+- !private ["PSo30UIResponderStandardEditActions", "UIImage"]
+- !private ["PSo30UIResponderStandardEditActions", "adDescrLabel"]
+- !private ["PSo30UIResponderStandardEditActions", "adImage"]
+- !private ["PSo30UIResponderStandardEditActions", "adTitleLabel"]
+- !private ["PSo30UIResponderStandardEditActions", "addToFavOutlet"]
+- ["PSo30UIResponderStandardEditActions", "callTAG"]
+- !private ["PSo30UIResponderStandardEditActions", "dequeueReusableCell"]
+- ["PSo30UIResponderStandardEditActions", "didReceiveMemoryWarning"]
+- !private ["PSo30UIResponderStandardEditActions", "image"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- ["PSo30UIResponderStandardEditActions", "numberOfSections"]
+- !private ["PSo30UIResponderStandardEditActions", "searchedAdsArray"]
+- !private ["PSo30UIResponderStandardEditActions", "simpleAlert"]
+- ["PSo30UIResponderStandardEditActions", "tableView"]
+- !private ["PSo30UIResponderStandardEditActions", "tag"]
+- !private ["PSo30UIResponderStandardEditActions", "text"]
+- !private ["PSo30UIResponderStandardEditActions", "title"]
+- ["PSo30UIResponderStandardEditActions", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- !private ["CSo12UIScrollView", "dequeueReusableCell"]
+- !private ["PSo20UIScrollViewDelegate", "CLASSIF_CLASS_NAME"]
+- !private ["PSo20UIScrollViewDelegate", "CLASSIF_DESCRIPTION"]
+- !private ["PSo20UIScrollViewDelegate", "CLASSIF_IMAGE1"]
+- !private ["PSo20UIScrollViewDelegate", "CLASSIF_TITLE"]
+- !private ["PSo20UIScrollViewDelegate", "FAV_AD_POINTER"]
+- !private ["PSo20UIScrollViewDelegate", "FAV_CLASS_NAME"]
+- !private ["PSo20UIScrollViewDelegate", "FAV_USERNAME"]
+- !private ["PSo20UIScrollViewDelegate", "FAV_USER_POINTER"]
+- !private ["PSo20UIScrollViewDelegate", "PFObject"]
+- !private ["PSo20UIScrollViewDelegate", "PFQuery"]
+- !private ["PSo20UIScrollViewDelegate", "PFUser"]
+- !private ["PSo20UIScrollViewDelegate", "UIImage"]
+- ["PSo20UIScrollViewDelegate", "callTAG"]
+- ["PSo20UIScrollViewDelegate", "didReceiveMemoryWarning"]
+- !private ["PSo20UIScrollViewDelegate", "init"]
+- ["PSo20UIScrollViewDelegate", "numberOfSections"]
+- !private ["PSo20UIScrollViewDelegate", "searchedAdsArray"]
+- !private ["PSo20UIScrollViewDelegate", "simpleAlert"]
+- ["PSo20UIScrollViewDelegate", "tableView"]
+- !private ["PSo20UIScrollViewDelegate", "title"]
+- ["PSo20UIScrollViewDelegate", "viewDidLoad"]
+- ["PSo20UIScrollViewDelegate", ""]
+- !private ["PSo16UIStateRestoring", "CLASSIF_CLASS_NAME"]
+- !private ["PSo16UIStateRestoring", "CLASSIF_DESCRIPTION"]
+- !private ["PSo16UIStateRestoring", "CLASSIF_IMAGE1"]
+- !private ["PSo16UIStateRestoring", "CLASSIF_TITLE"]
+- !private ["PSo16UIStateRestoring", "FAV_AD_POINTER"]
+- !private ["PSo16UIStateRestoring", "FAV_CLASS_NAME"]
+- !private ["PSo16UIStateRestoring", "FAV_USERNAME"]
+- !private ["PSo16UIStateRestoring", "FAV_USER_POINTER"]
+- !private ["PSo16UIStateRestoring", "PFObject"]
+- !private ["PSo16UIStateRestoring", "PFQuery"]
+- !private ["PSo16UIStateRestoring", "PFUser"]
+- !private ["PSo16UIStateRestoring", "UIImage"]
+- ["PSo16UIStateRestoring", "callTAG"]
+- ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- !private ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "numberOfSections"]
+- !private ["PSo16UIStateRestoring", "searchedAdsArray"]
+- !private ["PSo16UIStateRestoring", "simpleAlert"]
+- ["PSo16UIStateRestoring", "tableView"]
+- !private ["PSo16UIStateRestoring", "title"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- ["CSo11UITableView", "deinit"]
+- !private ["CSo11UITableView", "dequeueReusableCell"]
+- !private ["CSo15UITableViewCell", "adDescrLabel"]
+- !private ["CSo15UITableViewCell", "adImage"]
+- !private ["CSo15UITableViewCell", "adTitleLabel"]
+- !private ["CSo15UITableViewCell", "addToFavOutlet"]
+- ["CSo15UITableViewCell", "deinit"]
+- !private ["CSo21UITableViewController", "AdCell"]
+- !private ["CSo21UITableViewController", "AnyObject"]
+- !private ["CSo21UITableViewController", "CLASSIF_CLASS_NAME"]
+- !private ["CSo21UITableViewController", "CLASSIF_DESCRIPTION"]
+- !private ["CSo21UITableViewController", "CLASSIF_IMAGE1"]
+- !private ["CSo21UITableViewController", "CLASSIF_TITLE"]
+- !private ["CSo21UITableViewController", "FAV_AD_POINTER"]
+- !private ["CSo21UITableViewController", "FAV_CLASS_NAME"]
+- !private ["CSo21UITableViewController", "FAV_USERNAME"]
+- !private ["CSo21UITableViewController", "FAV_USER_POINTER"]
+- ["CSo21UITableViewController", "IndexPath"]
+- ["CSo21UITableViewController", "Int"]
+- !private ["CSo21UITableViewController", "NSIndexPath"]
+- !private ["CSo21UITableViewController", "PFFile"]
+- !private ["CSo21UITableViewController", "PFObject"]
+- !private ["CSo21UITableViewController", "PFQuery"]
+- !private ["CSo21UITableViewController", "PFUser"]
+- !private ["CSo21UITableViewController", "UIButton"]
+- !private ["CSo21UITableViewController", "UIImage"]
+- ["CSo21UITableViewController", "UITableView"]
+- ["CSo21UITableViewController", "UITableViewCell"]
+- !private ["CSo21UITableViewController", "Void"]
+- ["CSo21UITableViewController", "callTAG"]
+- ["CSo21UITableViewController", "deinit"]
+- ["CSo21UITableViewController", "didReceiveMemoryWarning"]
+- ["CSo21UITableViewController", "init"]
+- ["CSo21UITableViewController", "numberOfSections"]
+- !private ["CSo21UITableViewController", "searchedAdsArray"]
+- !private ["CSo21UITableViewController", "simpleAlert"]
+- ["CSo21UITableViewController", "tableView"]
+- !private ["CSo21UITableViewController", "title"]
+- ["CSo21UITableViewController", "viewDidLoad"]
+- ["CSo21UITableViewController", ""]
+- !private ["PSo21UITableViewDataSource", "CLASSIF_CLASS_NAME"]
+- !private ["PSo21UITableViewDataSource", "CLASSIF_DESCRIPTION"]
+- !private ["PSo21UITableViewDataSource", "CLASSIF_IMAGE1"]
+- !private ["PSo21UITableViewDataSource", "CLASSIF_TITLE"]
+- !private ["PSo21UITableViewDataSource", "FAV_AD_POINTER"]
+- !private ["PSo21UITableViewDataSource", "FAV_CLASS_NAME"]
+- !private ["PSo21UITableViewDataSource", "FAV_USERNAME"]
+- !private ["PSo21UITableViewDataSource", "FAV_USER_POINTER"]
+- !private ["PSo21UITableViewDataSource", "PFObject"]
+- !private ["PSo21UITableViewDataSource", "PFQuery"]
+- !private ["PSo21UITableViewDataSource", "PFUser"]
+- !private ["PSo21UITableViewDataSource", "UIImage"]
+- ["PSo21UITableViewDataSource", "callTAG"]
+- ["PSo21UITableViewDataSource", "didReceiveMemoryWarning"]
+- !private ["PSo21UITableViewDataSource", "init"]
+- ["PSo21UITableViewDataSource", "numberOfSections"]
+- !private ["PSo21UITableViewDataSource", "searchedAdsArray"]
+- !private ["PSo21UITableViewDataSource", "simpleAlert"]
+- ["PSo21UITableViewDataSource", "tableView"]
+- !private ["PSo21UITableViewDataSource", "title"]
+- ["PSo21UITableViewDataSource", "viewDidLoad"]
+- ["PSo21UITableViewDataSource", ""]
+- !private ["PSo19UITableViewDelegate", "CLASSIF_CLASS_NAME"]
+- !private ["PSo19UITableViewDelegate", "CLASSIF_DESCRIPTION"]
+- !private ["PSo19UITableViewDelegate", "CLASSIF_IMAGE1"]
+- !private ["PSo19UITableViewDelegate", "CLASSIF_TITLE"]
+- !private ["PSo19UITableViewDelegate", "FAV_AD_POINTER"]
+- !private ["PSo19UITableViewDelegate", "FAV_CLASS_NAME"]
+- !private ["PSo19UITableViewDelegate", "FAV_USERNAME"]
+- !private ["PSo19UITableViewDelegate", "FAV_USER_POINTER"]
+- !private ["PSo19UITableViewDelegate", "PFObject"]
+- !private ["PSo19UITableViewDelegate", "PFQuery"]
+- !private ["PSo19UITableViewDelegate", "PFUser"]
+- !private ["PSo19UITableViewDelegate", "UIImage"]
+- ["PSo19UITableViewDelegate", "callTAG"]
+- ["PSo19UITableViewDelegate", "didReceiveMemoryWarning"]
+- !private ["PSo19UITableViewDelegate", "init"]
+- ["PSo19UITableViewDelegate", "numberOfSections"]
+- !private ["PSo19UITableViewDelegate", "searchedAdsArray"]
+- !private ["PSo19UITableViewDelegate", "simpleAlert"]
+- ["PSo19UITableViewDelegate", "tableView"]
+- !private ["PSo19UITableViewDelegate", "title"]
+- ["PSo19UITableViewDelegate", "viewDidLoad"]
+- ["PSo19UITableViewDelegate", ""]
+- ["OSC16UITableViewStyle", "deinit"]
+- !private ["PSo18UITraitEnvironment", "CLASSIF_CLASS_NAME"]
+- !private ["PSo18UITraitEnvironment", "CLASSIF_DESCRIPTION"]
+- !private ["PSo18UITraitEnvironment", "CLASSIF_IMAGE1"]
+- !private ["PSo18UITraitEnvironment", "CLASSIF_TITLE"]
+- !private ["PSo18UITraitEnvironment", "FAV_AD_POINTER"]
+- !private ["PSo18UITraitEnvironment", "FAV_CLASS_NAME"]
+- !private ["PSo18UITraitEnvironment", "FAV_USERNAME"]
+- !private ["PSo18UITraitEnvironment", "FAV_USER_POINTER"]
+- !private ["PSo18UITraitEnvironment", "PFObject"]
+- !private ["PSo18UITraitEnvironment", "PFQuery"]
+- !private ["PSo18UITraitEnvironment", "PFUser"]
+- !private ["PSo18UITraitEnvironment", "UIImage"]
+- !private ["PSo18UITraitEnvironment", "adDescrLabel"]
+- !private ["PSo18UITraitEnvironment", "adImage"]
+- !private ["PSo18UITraitEnvironment", "adTitleLabel"]
+- !private ["PSo18UITraitEnvironment", "addToFavOutlet"]
+- ["PSo18UITraitEnvironment", "callTAG"]
+- !private ["PSo18UITraitEnvironment", "dequeueReusableCell"]
+- ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UITraitEnvironment", "image"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "numberOfSections"]
+- !private ["PSo18UITraitEnvironment", "searchedAdsArray"]
+- !private ["PSo18UITraitEnvironment", "simpleAlert"]
+- ["PSo18UITraitEnvironment", "tableView"]
+- !private ["PSo18UITraitEnvironment", "tag"]
+- !private ["PSo18UITraitEnvironment", "text"]
+- !private ["PSo18UITraitEnvironment", "title"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "adDescrLabel"]
+- !private ["CSo6UIView", "adImage"]
+- !private ["CSo6UIView", "adTitleLabel"]
+- !private ["CSo6UIView", "addToFavOutlet"]
+- !private ["CSo6UIView", "dequeueReusableCell"]
+- !private ["CSo6UIView", "image"]
+- !private ["CSo6UIView", "tag"]
+- !private ["CSo6UIView", "text"]
+- !private ["CSo16UIViewController", "AdCell"]
+- !private ["CSo16UIViewController", "AnyObject"]
+- !private ["CSo16UIViewController", "CLASSIF_CLASS_NAME"]
+- !private ["CSo16UIViewController", "CLASSIF_DESCRIPTION"]
+- !private ["CSo16UIViewController", "CLASSIF_IMAGE1"]
+- !private ["CSo16UIViewController", "CLASSIF_TITLE"]
+- !private ["CSo16UIViewController", "FAV_AD_POINTER"]
+- !private ["CSo16UIViewController", "FAV_CLASS_NAME"]
+- !private ["CSo16UIViewController", "FAV_USERNAME"]
+- !private ["CSo16UIViewController", "FAV_USER_POINTER"]
+- ["CSo16UIViewController", "IndexPath"]
+- ["CSo16UIViewController", "Int"]
+- !private ["CSo16UIViewController", "NSIndexPath"]
+- !private ["CSo16UIViewController", "PFFile"]
+- !private ["CSo16UIViewController", "PFObject"]
+- !private ["CSo16UIViewController", "PFQuery"]
+- !private ["CSo16UIViewController", "PFUser"]
+- !private ["CSo16UIViewController", "UIButton"]
+- !private ["CSo16UIViewController", "UIImage"]
+- ["CSo16UIViewController", "UITableView"]
+- ["CSo16UIViewController", "UITableViewCell"]
+- !private ["CSo16UIViewController", "Void"]
+- ["CSo16UIViewController", "callTAG"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "numberOfSections"]
+- !private ["CSo16UIViewController", "searchedAdsArray"]
+- !private ["CSo16UIViewController", "simpleAlert"]
+- ["CSo16UIViewController", "tableView"]
+- !private ["CSo16UIViewController", "title"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- !private ["Su", "deinit"]
+- !private ["Vs6UInt16", "deinit"]
+- !private ["Vs6UInt32", "deinit"]
+- !private ["Vs6UInt64", "deinit"]
+- !private ["Vs5UInt8", "deinit"]
+- !private ["Sc", "deinit"]
+- !private ["Ps14_ArrayProtocol", "Index"]
+- !private ["Ps14_ArrayProtocol", "IndexDistance"]
+- !private ["Ps14_ArrayProtocol", "SubSequence"]
+- !private ["Ps14_ArrayProtocol", "_Element"]
+- !private ["Ps14_ArrayProtocol", "count"]
+- ["Ps14_ArrayProtocol", "init"]
+- !private ["Ps14_ArrayProtocol", "subscript"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "adDescrLabel"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "adImage"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "adTitleLabel"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "addToFavOutlet"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "dequeueReusableCell"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "image"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "tag"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "text"]
+- !private ["Ps24_DestructorSafeContainer", "Index"]
+- !private ["Ps24_DestructorSafeContainer", "IndexDistance"]
+- !private ["Ps24_DestructorSafeContainer", "SubSequence"]
+- !private ["Ps24_DestructorSafeContainer", "_Element"]
+- !private ["Ps24_DestructorSafeContainer", "count"]
+- ["Ps24_DestructorSafeContainer", "init"]
+- !private ["Ps24_DestructorSafeContainer", "subscript"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps35_ExpressibleByBuiltinIntegerLiteral", "IntegerLiteralType"]
+- !private ["Ps35_ExpressibleByBuiltinIntegerLiteral", "Stride"]
+- !private ["Ps35_ExpressibleByBuiltinIntegerLiteral", "_DisabledRangeIndex"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps26_ExpressibleByImageLiteral", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "row"]
+- !private ["Ps9_Hashable", "CLASSIF_CLASS_NAME"]
+- !private ["Ps9_Hashable", "CLASSIF_DESCRIPTION"]
+- !private ["Ps9_Hashable", "CLASSIF_IMAGE1"]
+- !private ["Ps9_Hashable", "CLASSIF_TITLE"]
+- !private ["Ps9_Hashable", "FAV_AD_POINTER"]
+- !private ["Ps9_Hashable", "FAV_CLASS_NAME"]
+- !private ["Ps9_Hashable", "FAV_USERNAME"]
+- !private ["Ps9_Hashable", "FAV_USER_POINTER"]
+- !private ["Ps9_Hashable", "IntegerLiteralType"]
+- !private ["Ps9_Hashable", "PFObject"]
+- !private ["Ps9_Hashable", "PFQuery"]
+- !private ["Ps9_Hashable", "PFUser"]
+- !private ["Ps9_Hashable", "Stride"]
+- !private ["Ps9_Hashable", "UIImage"]
+- !private ["Ps9_Hashable", "_DisabledRangeIndex"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps9_Hashable", "adDescrLabel"]
+- !private ["Ps9_Hashable", "adImage"]
+- !private ["Ps9_Hashable", "adTitleLabel"]
+- !private ["Ps9_Hashable", "addToFavOutlet"]
+- ["Ps9_Hashable", "callTAG"]
+- !private ["Ps9_Hashable", "current"]
+- !private ["Ps9_Hashable", "dequeueReusableCell"]
+- ["Ps9_Hashable", "didReceiveMemoryWarning"]
+- !private ["Ps9_Hashable", "findObjectsInBackground"]
+- !private ["Ps9_Hashable", "getDataInBackground"]
+- !private ["Ps9_Hashable", "image"]
+- !private ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", "numberOfSections"]
+- !private ["Ps9_Hashable", "row"]
+- !private ["Ps9_Hashable", "saveInBackground"]
+- !private ["Ps9_Hashable", "searchedAdsArray"]
+- !private ["Ps9_Hashable", "simpleAlert"]
+- !private ["Ps9_Hashable", "subscript"]
+- ["Ps9_Hashable", "tableView"]
+- !private ["Ps9_Hashable", "tag"]
+- !private ["Ps9_Hashable", "text"]
+- !private ["Ps9_Hashable", "title"]
+- !private ["Ps9_Hashable", "username"]
+- ["Ps9_Hashable", "viewDidLoad"]
+- !private ["Ps9_Hashable", "whereKey"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps14_Incrementable", "IntegerLiteralType"]
+- !private ["Ps14_Incrementable", "Stride"]
+- !private ["Ps14_Incrementable", "_DisabledRangeIndex"]
+- !private ["Ps8_Integer", "IntegerLiteralType"]
+- !private ["Ps8_Integer", "Stride"]
+- !private ["Ps8_Integer", "_DisabledRangeIndex"]
+- !private ["Ps18_IntegerArithmetic", "IntegerLiteralType"]
+- !private ["Ps18_IntegerArithmetic", "Stride"]
+- !private ["Ps18_IntegerArithmetic", "_DisabledRangeIndex"]
+- !private ["Ps21_ObjectiveCBridgeable", "Index"]
+- !private ["Ps21_ObjectiveCBridgeable", "IndexDistance"]
+- !private ["Ps21_ObjectiveCBridgeable", "IntegerLiteralType"]
+- !private ["Ps21_ObjectiveCBridgeable", "Stride"]
+- !private ["Ps21_ObjectiveCBridgeable", "SubSequence"]
+- !private ["Ps21_ObjectiveCBridgeable", "_DisabledRangeIndex"]
+- !private ["Ps21_ObjectiveCBridgeable", "_Element"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "count"]
+- ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "row"]
+- !private ["Ps21_ObjectiveCBridgeable", "subscript"]
+- !private ["Vs26_OptionalNilComparisonType", "deinit"]
+- !private ["Ps14_SignedInteger", "IntegerLiteralType"]
+- !private ["Ps14_SignedInteger", "Stride"]
+- !private ["Ps14_SignedInteger", "_DisabledRangeIndex"]
+- !private ["Ps11_Strideable", "IntegerLiteralType"]
+- !private ["Ps11_Strideable", "Stride"]
+- !private ["Ps11_Strideable", "_DisabledRangeIndex"]
+depends-nominal:
+- "C11PullUpASeat6AdCell"
+- "Ps9AnyObject"
+- "Sa"
+- "Ps23BidirectionalCollection"
+- "Ps22BidirectionalIndexable"
+- !private "Vs18BidirectionalSlice"
+- !private "Ps17BitwiseOperations"
+- !private "Sb"
+- "C11PullUpASeat9BrowseAds"
+- !private "PSo15CALayerDelegate"
+- "Ps7CVarArg"
+- !private "Vs9Character"
+- "Ps10Collection"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- !private "V10Foundation4Data"
+- !private "Vs27DefaultBidirectionalIndices"
+- !private "Vs26DefaultRandomAccessIndices"
+- !private "Sd"
+- "Ps9Equatable"
+- !private "Ps5Error"
+- "Ps25ExpressibleByArrayLiteral"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps27ExpressibleByIntegerLiteral"
+- !private "Ps32ExpressibleByStringInterpolation"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- !private "Sf"
+- "Ps8Hashable"
+- "V10Foundation9IndexPath"
+- "Ps9Indexable"
+- "Ps13IndexableBase"
+- !private "Vs16IndexingIterator"
+- "Si"
+- !private "Vs5Int16"
+- !private "Vs5Int32"
+- !private "Vs5Int64"
+- !private "Vs4Int8"
+- !private "Ps7Integer"
+- !private "Ps17IntegerArithmetic"
+- !private "Ps16IteratorProtocol"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- "Ps17MutableCollection"
+- "Ps16MutableIndexable"
+- "CSo7NSCoder"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- "CSo11NSIndexPath"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- "Sq"
+- "CSo6PFFile"
+- "CSo8PFObject"
+- !private "CSo7PFQuery"
+- !private "PSo13PFSubclassing"
+- !private "CSo6PFUser"
+- "Ps22RandomAccessCollection"
+- "Ps21RandomAccessIndexable"
+- !private "Vs17RandomAccessSlice"
+- "Ps26RangeReplaceableCollection"
+- "Ps25RangeReplaceableIndexable"
+- !private "P10Foundation20ReferenceConvertible"
+- "Ps8Sequence"
+- !private "Ps13SignedInteger"
+- !private "Ps12SignedNumber"
+- !private "Vs5Slice"
+- !private "Ps10Strideable"
+- "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- !private "CSo8UIButton"
+- "PSo18UIContentContainer"
+- !private "PSo30UIContentSizeCategoryAdjusting"
+- !private "CSo9UIControl"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- !private "PSo11UIFocusItem"
+- !private "PSo27UIGestureRecognizerDelegate"
+- !private "CSo7UIImage"
+- !private "CSo11UIImageView"
+- !private "CSo7UILabel"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- !private "CSo12UIScrollView"
+- "PSo20UIScrollViewDelegate"
+- "PSo16UIStateRestoring"
+- "CSo11UITableView"
+- "CSo15UITableViewCell"
+- "CSo21UITableViewController"
+- "PSo21UITableViewDataSource"
+- "PSo19UITableViewDelegate"
+- "OSC16UITableViewStyle"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- !private "Su"
+- !private "Vs6UInt16"
+- !private "Vs6UInt32"
+- !private "Vs6UInt64"
+- !private "Vs5UInt8"
+- !private "Sc"
+- "Ps14_ArrayProtocol"
+- !private "Ps37_DefaultCustomPlaygroundQuickLookable"
+- "Ps24_DestructorSafeContainer"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps35_ExpressibleByBuiltinIntegerLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps26_ExpressibleByImageLiteral"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps14_Incrementable"
+- !private "Ps8_Integer"
+- !private "Ps18_IntegerArithmetic"
+- "Ps21_ObjectiveCBridgeable"
+- !private "Vs26_OptionalNilComparisonType"
+- !private "Ps14_SignedInteger"
+- !private "Ps11_Strideable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/BFWebViewAppLinkResolver.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/BFURL.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/BFMeasurementEvent.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/BFAppLinkTarget.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/BFAppLinkReturnToRefererView.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/BFAppLinkReturnToRefererController.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/BFAppLinkResolving.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/BFAppLinkNavigation.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/BFAppLink.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/BFTaskCompletionSource.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/BFTask+Exceptions.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/BFTask.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/BFExecutor.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/BFCancellationTokenSource.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/BFCancellationTokenRegistration.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/BFCancellationToken.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Headers/Bolts.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Bolts.framework/Modules/module.modulemap"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFPurchase.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFProduct.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFPush+Deprecated.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFPush+Synchronous.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFPush.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFNetworkActivityIndicatorManager.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFInstallation.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFUserAuthenticationDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFUser+Deprecated.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFUser+Synchronous.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFSession.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFRole.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFRelation.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFQuery+Deprecated.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFQuery+Synchronous.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFQuery.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFObject+Deprecated.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFObject+Synchronous.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFObject+Subclass.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFGeoPoint.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFFile+Synchronous.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFFile+Deprecated.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFFile.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFConfig+Synchronous.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFConfig.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFCloud+Synchronous.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFCloud+Deprecated.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFCloud.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFAnonymousUtils+Deprecated.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFSubclassing.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFObject.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFUser.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFAnonymousUtils.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFAnalytics.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFACL.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/PFConstants.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/ParseClientConfiguration.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Headers/Parse.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/PullUpASeat/Classify/Parse/Parse.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/MapKit.swiftmodule"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMRewardBasedVideoAdNetworkConnectorProtocol.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMRewardBasedVideoAdNetworkAdapterProtocol.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMEnums.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMediationAdRequest.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMAdNetworkConnectorProtocol.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMAdNetworkAdapterProtocol.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADRewardBasedVideoAdDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADRewardBasedVideoAd.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdReward.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADSearchRequest.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADSearchBannerView.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADDynamicHeightSearchRequest.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMediatedNativeContentAd.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMediatedNativeAppInstallAd.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMediatedNativeAdNotificationSource.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventParameters.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMediatedNativeAdDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMediatedNativeAd.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventNativeAdDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventNativeAd.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventInterstitialDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventInterstitial.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventExtras.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventRequest.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventBannerDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventBanner.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAdViewAdOptions.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAdImageAdLoaderOptions.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeCustomTemplateAd.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeContentAd.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAppInstallAd.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAdImage+Mediation.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAdImage.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAdDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAd.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdChoicesView.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdLoaderAdTypes.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPRequest.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPInterstitial.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPCustomRenderedInterstitialDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPCustomRenderedAd.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAppEventDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPCustomRenderedBannerViewDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPBannerView.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADVideoOptions.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADVideoControllerDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADVideoController.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeExpressAdViewDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeExpressAdView.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMobileAds.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMediaView.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADInterstitialDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADInterstitial.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADInAppPurchase.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADExtras.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADDebugOptionsViewController.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdLoaderDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdLoader.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCorrelatorAdLoaderOptions.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCorrelator.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADRequestError.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADRequest.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADInAppPurchaseDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADBannerViewDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdSizeDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADBannerView.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdSize.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdNetworkExtras.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GoogleMobileAdsDefines.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GoogleMobileAds.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreAudio.swiftmodule"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Fabric/iOS/Fabric.framework/Headers/FABAttributes.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Fabric/iOS/Fabric.framework/Headers/Fabric.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/Fabric/iOS/Fabric.framework/Modules/module.modulemap"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRSessionStore.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRSession.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRGuestSession.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRCoreOAuthSigning.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRConstants.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRAuthSession.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRAuthConfig.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRAPIErrorCode.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TWTRDefines.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterCore/iOS/TwitterCore.framework/Headers/TwitterCore.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterCore/iOS/TwitterCore.framework/Modules/module.modulemap"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRVideoMetaData.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRUserTimelineDataSource.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRUser.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetUserMentionEntity.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetUrlEntity.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetViewDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetView.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetTableViewCell.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetHashtagEntity.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetDetailViewController.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetEntity.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweetCashtagEntity.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTweet.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTimelineViewController.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTimelineFilter.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTimelineDelegate.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTimelineCursor.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRSearchTimelineDataSource.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTROAuthSigning.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRNotificationConstants.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRMoPubNativeAdContainerView.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRMoPubAdConfiguration.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRMediaEntitySize.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRLogInButton.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRListTimelineDataSource.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRJSONConvertible.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRComposerViewController.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRComposerTheme.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRComposer.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTimelineType.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRTimelineDataSource.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRCollectionTimelineDataSource.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRCardConfiguration.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TWTRAPIClient.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/Twitter.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Headers/TwitterKit.h"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/Pods/TwitterKit/iOS/TwitterKit.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+- "/Users/BrittneyB/Downloads/pullupaseat-pullupaseatfinal/DerivedData/PullUpASeat/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+interface-hash: "d7e1c43390b4fce51624b4ffc72865d0"
